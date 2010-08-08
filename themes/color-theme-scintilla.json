@@ -1,0 +1,125 @@
+{
+  'theme-url': 'URL FOR color-theme-scintilla',
+  'theme-name': 'color-theme-scintilla',
+  'theme-doc': 'JSON dump of color-theme-scintilla by vic, created 2010-08-06.',
+  'params': {
+   'font': '-monotype-courier new-bold-r-normal-*-*-140-*-*-m-*-iso8859-1',
+   'width': '95',
+   'height': '40',
+   'background-color': '#ffffff',
+   'foreground-color': '#000000',
+   'background-mode': 'light',
+   'mouse-color': '#262626',
+   'cursor-color': '#262626',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#228b22',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#8b008b',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#d02090',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#008b8b',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#008b8b',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'highline-face': [
+      [ true , {
+          ':background': '#f2f2f2',
+        }
+      ]
+    ],
+    'show-paren-match-face': [
+      [ true , {
+          ':background': '#cccccc',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#cccccc',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':foreground': '#228b22',
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#000080',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'widget-field-face': [
+      [ true , {
+          ':background': '#000080',
+        }
+      ]
+    ],
+    'widget-single-line-field-face': [
+      [ true , {
+          ':background': '#4169e1',
+        }
+      ]
+    ]
+  }
+}

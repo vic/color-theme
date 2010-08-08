@@ -1,0 +1,218 @@
+{
+  'theme-url': 'URL FOR color-theme-railscasts',
+  'theme-name': 'color-theme-railscasts',
+  'theme-doc': 'JSON dump of color-theme-railscasts by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#232323',
+   'background-mode': 'dark',
+   'cursor-color': '#5a647e',
+   'foreground-color': '#e6e1dc',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':italic': true,
+          ':weight': 'bold',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'fringe': [
+      [ true , {
+          ':background': '#232323',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#d0d0ff',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':foreground': '#bc9458',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#6d9cbe',
+        }
+      ]
+    ],
+    'font-lock-doc-string-face': [
+      [ true , {
+          ':foreground': '#a5c261',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#ffc66d',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#cc7833',
+        }
+      ]
+    ],
+    'font-lock-preprocessor-face': [
+      [ true , {
+          ':foreground': '#cc7833',
+        }
+      ]
+    ],
+    'font-lock-reference-face': [
+      [ true , {
+          ':foreground': '#b0c4de',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#a5c261',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#b0c4de',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':foreground': '#ffc0cb',
+        }
+      ]
+    ],
+    'paren-face-match-light': [
+      [ true , {
+          ':foreground': '#ffc66d',
+          ':background': '#555577',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#556b2f',
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':italic': true,
+        }
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':background': '#a5baf1',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'modeline-buffer-id': [
+      [ true , {
+          ':background': '#a5baf1',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'modeline-mousable': [
+      [ true , {
+          ':background': '#a5baf1',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'modeline-mousable-minor-mode': [
+      [ true , {
+          ':background': '#a5baf1',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#555577',
+        }
+      ]
+    ],
+    'primary-selection': [
+      [ true , {
+          ':background': '#555577',
+        }
+      ]
+    ],
+    'isearch': [
+      [ true , {
+          ':background': '#555555',
+        }
+      ]
+    ],
+    'zmacs-region': [
+      [ true , {
+          ':background': '#555577',
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#483d8b',
+        }
+      ]
+    ],
+    'flymake-errline': [
+      [ true , {
+          ':background': '#ffa07a',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'flymake-warnline': [
+      [ true , {
+          ':background': '#b0c4de',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'minibuffer-prompt': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff6600',
+          ':weight': 'bold',
+        }
+      ]
+    ]
+  }
+}

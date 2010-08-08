@@ -1,0 +1,157 @@
+{
+  'theme-url': 'URL FOR color-theme-merbivore',
+  'theme-name': 'color-theme-merbivore',
+  'theme-doc': 'JSON dump of color-theme-merbivore by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#1c1c1c',
+   'background-mode': 'dark',
+   'cursor-color': '#e5d759',
+   'foreground-color': '#e6e1dc',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'modeline': [
+      [ true , {
+          ':background': '#1c1c1c',
+          ':foreground': '#444444',
+        }
+      ]
+    ],
+    'modeline-inactive': [
+      [ true , {
+          ':background': '#1c1c1c',
+          ':foreground': '#333333',
+        }
+      ]
+    ],
+    'default': [
+      [ true 
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':italic': true,
+          ':weight': 'bold',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#e1c582',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':foreground': '#ac4bb8',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#68c1d8',
+        }
+      ]
+    ],
+    'font-lock-doc-string-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#fc803a',
+        }
+      ]
+    ],
+    'font-lock-preprocessor-face': [
+      [ true , {
+          ':foreground': '#fc803a',
+        }
+      ]
+    ],
+    'font-lock-reference-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#8ec65f',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#e1c582',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'textile-link-face': [
+      [ true , {
+          ':foreground': '#8ec65f',
+        }
+      ]
+    ],
+    'textile-ol-bullet-face': [
+      [ true , {
+          ':foreground': '#fc803a',
+        }
+      ]
+    ],
+    'textile-ul-bullet-face': [
+      [ true , {
+          ':foreground': '#fc803a',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#2c2c2c',
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':italic': true,
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ]
+  }
+}

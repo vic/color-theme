@@ -1,0 +1,207 @@
+{
+  'theme-url': 'URL FOR color-theme-late-night',
+  'theme-name': 'color-theme-late-night',
+  'theme-doc': 'JSON dump of color-theme-late-night by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#000000',
+   'background-mode': 'dark',
+   'background-toolbar-color': '#000000',
+   'border-color': '#000000',
+   'bottom-toolbar-shadow-color': '#000000',
+   'cursor-color': '#808080',
+   'foreground-color': '#606060',
+   'top-toolbar-shadow-color': '#101010',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'button': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'custom-button-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#909090',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'fringe': [
+      [ true , {
+          ':background': '#101010',
+          ':foreground': '#404040',
+        }
+      ]
+    ],
+    'header-line': [
+      [ true , {
+          ':background': '#303030',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#483d8b',
+          ':foreground': '#add8e6',
+        }
+      ]
+    ],
+    'holiday-face': [
+      [ true , {
+          ':background': '#000000',
+          ':foreground': '#707070',
+        }
+      ]
+    ],
+    'isearch': [
+      [ true , {
+          ':foreground': '#ffc0cb',
+          ':background': '#ff0000',
+        }
+      ]
+    ],
+    'isearch-lazy-highlight-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'menu': [
+      [ true , {
+          ':background': '#101010',
+          ':foreground': '#404040',
+        }
+      ]
+    ],
+    'minibuffer-prompt': [
+      [ true , {
+          ':foreground': '555',
+        }
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':background': '#101010',
+          ':foreground': '#404040',
+        }
+      ]
+    ],
+    'mode-line-inactive': [
+      [ true , {
+          ':background': '#000000',
+          ':foreground': '#404040',
+        }
+      ]
+    ],
+    'modeline-buffer-id': [
+      [ true , {
+          ':background': '#000000',
+          ':foreground': '#505050',
+        }
+      ]
+    ],
+    'modeline-mousable': [
+      [ true , {
+          ':background': '#000000',
+          ':foreground': '#505050',
+        }
+      ]
+    ],
+    'modeline-mousable-minor-mode': [
+      [ true , {
+          ':background': '#000000',
+          ':foreground': '#505050',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#008b8b',
+          ':foreground': '#00ffff',
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#7fffd4',
+          ':foreground': '#6a5acd',
+        }
+      ]
+    ],
+    'show-paren-match-face': [
+      [ true , {
+          ':foreground': '#ffffff',
+          ':background': '#8470ff',
+        }
+      ]
+    ],
+    'show-paren-mismatch-face': [
+      [ true , {
+          ':foreground': '#ffffff',
+          ':background': '#ff0000',
+        }
+      ]
+    ],
+    'tool-bar': [
+      [ true , {
+          ':background': '#101010',
+          ':foreground': '#707070',
+        }
+      ]
+    ],
+    'tooltip': [
+      [ true , {
+          ':background': '#303030',
+          ':foreground': '#707070',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'variable-pitch': [
+      [ true 
+      ]
+    ],
+    'widget-button-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#808080',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'widget-field-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#909090',
+          ':weight': 'bold',
+        }
+      ]
+    ]
+  }
+}

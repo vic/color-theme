@@ -1,0 +1,264 @@
+{
+  'theme-url': 'URL FOR color-theme-dark-erc',
+  'theme-name': 'color-theme-dark-erc',
+  'theme-doc': 'JSON dump of color-theme-dark-erc by vic, created 2010-08-06.',
+  'params': {
+
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'erc-action-face': [
+      [ true 
+      ]
+    ],
+    'erc-bold-face': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'erc-current-nick-face': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'erc-default-face': [
+      [ true 
+      ]
+    ],
+    'erc-direct-msg-face': [
+      [ true 
+      ]
+    ],
+    'erc-error-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#cd5c5c',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'erc-highlight-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#98fb98',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'erc-input-face': [
+      [ true , {
+          ':foreground': '#505050',
+        }
+      ]
+    ],
+    'erc-inverse-face': [
+      [ true , {
+          ':background': '#4682b4',
+        }
+      ]
+    ],
+    'erc-keyword-face': [
+      [ true , {
+          ':foreground': '#909090',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'erc-nick-msg-face': [
+      [ true , {
+          ':foreground': '#808080',
+        }
+      ]
+    ],
+    'erc-notice-face': [
+      [ true , {
+          ':foreground': '#404040',
+        }
+      ]
+    ],
+    'erc-pal-face': [
+      [ true , {
+          ':foreground': '#808080',
+        }
+      ]
+    ],
+    'erc-prompt-face': [
+      [ true , {
+          ':foreground': '#707070',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'erc-timestamp-face': [
+      [ true , {
+          ':foreground': '#707070',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'fg:erc-color-face0': [
+      [ true , {
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'fg:erc-color-face1': [
+      [ true , {
+          ':foreground': '#f5f5dc',
+        }
+      ]
+    ],
+    'fg:erc-color-face2': [
+      [ true , {
+          ':foreground': '#fffacd',
+        }
+      ]
+    ],
+    'fg:erc-color-face3': [
+      [ true , {
+          ':foreground': '#e0ffff',
+        }
+      ]
+    ],
+    'fg:erc-color-face4': [
+      [ true , {
+          ':foreground': '#b0e0e6',
+        }
+      ]
+    ],
+    'fg:erc-color-face5': [
+      [ true , {
+          ':foreground': '#87ceeb',
+        }
+      ]
+    ],
+    'fg:erc-color-face6': [
+      [ true , {
+          ':foreground': '#8fbc8f',
+        }
+      ]
+    ],
+    'fg:erc-color-face7': [
+      [ true , {
+          ':foreground': '#98fb98',
+        }
+      ]
+    ],
+    'fg:erc-color-face8': [
+      [ true , {
+          ':foreground': '#00fa9a',
+        }
+      ]
+    ],
+    'fg:erc-color-face9': [
+      [ true , {
+          ':foreground': '#f0e68c',
+        }
+      ]
+    ],
+    'fg:erc-color-face10': [
+      [ true , {
+          ':foreground': '#eee8aa',
+        }
+      ]
+    ],
+    'fg:erc-color-face11': [
+      [ true , {
+          ':foreground': '#fafad2',
+        }
+      ]
+    ],
+    'fg:erc-color-face12': [
+      [ true , {
+          ':foreground': '#ffffe0',
+        }
+      ]
+    ],
+    'fg:erc-color-face13': [
+      [ true , {
+          ':foreground': '#ffff00',
+        }
+      ]
+    ],
+    'fg:erc-color-face14': [
+      [ true , {
+          ':foreground': '#eedd82',
+        }
+      ]
+    ],
+    'fg:erc-color-face15': [
+      [ true , {
+          ':foreground': '#32cd32',
+        }
+      ]
+    ],
+    'bg:erc-color-face0': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face1': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face2': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face3': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face4': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face5': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face6': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face7': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face8': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face9': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face10': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face11': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face12': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face13': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face14': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face15': [
+      [ true 
+      ]
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  'theme-url': 'URL FOR color-theme-fischmeister',
+  'theme-name': 'color-theme-fischmeister',
+  'theme-doc': 'JSON dump of color-theme-fischmeister by vic, created 2010-08-06.',
+  'params': {
+   'foreground-color': '#000000',
+   'background-color': '#cccccc',
+   'mouse-color': '#ff0000',
+   'cursor-color': '#ffff00',
+   'border-color': '#000000',
+   'background-mode': 'light',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':foreground': '#cccccc',
+          ':background': '#000000',
+        }
+      ]
+    ],
+    'modeline-buffer-id': [
+      [ true , {
+          ':foreground': '#cccccc',
+          ':background': '#000000',
+        }
+      ]
+    ],
+    'modeline-mousable': [
+      [ true , {
+          ':foreground': '#cccccc',
+          ':background': '#000000',
+        }
+      ]
+    ],
+    'modeline-mousable-minor-mode': [
+      [ true , {
+          ':foreground': '#cccccc',
+          ':background': '#000000',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#b4eeb4',
+        }
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':italic': true,
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':bold': true,
+          ':italic': true,
+          ':weight': 'bold',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#bebebe',
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#afeeee',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'show-paren-match-face': [
+      [ true , {
+          ':foreground': '#ffff00',
+          ':background': '#006400',
+        }
+      ]
+    ],
+    'show-paren-mismatch-face': [
+      [ true , {
+          ':foreground': '#ffffff',
+          ':background': '#ff0000',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':foreground': '#b22222',
+          ':weight': 'bold',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#483d8b',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#00008b',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':foreground': '#006400',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#5f9ea0',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':foreground': '#da70d6',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-reference-face': [
+      [ true , {
+          ':foreground': '#4682b4',
+        }
+      ]
+    ]
+  }
+}

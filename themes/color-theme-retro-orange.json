@@ -1,0 +1,298 @@
+{
+  'theme-url': 'URL FOR color-theme-retro-orange',
+  'theme-name': 'color-theme-retro-orange',
+  'theme-doc': 'JSON dump of color-theme-retro-orange by vic, created 2010-08-06.',
+  'params': {
+   'foreground-color': '#ffa500',
+   'background-color': '#000000',
+   'mouse-color': '#ffa500',
+   'cursor-color': '#ffa500',
+   'border-color': '#ffa500',
+   'background-mode': 'dark',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'fixed-pitch': [
+      [ true 
+      ]
+    ],
+    'variable-pitch': [
+      [ true 
+      ]
+    ],
+    'shadow': [
+      [ true 
+      ]
+    ],
+    'link': [
+      [ true 
+      ]
+    ],
+    'link-visited': [
+      [ true 
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':foreground': '#000000',
+          ':background': '#ffa500',
+          ':inverse': true,
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':foreground': '#000000',
+          ':background': '#ffa500',
+          ':inverse': true,
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':foreground': '#000000',
+          ':background': '#ffa500',
+          ':inverse': true,
+        }
+      ]
+    ],
+    'trailing-whitespace': [
+      [ true 
+      ]
+    ],
+    'escape-glyph': [
+      [ true 
+      ]
+    ],
+    'nobreak-space': [
+      [ true 
+      ]
+    ],
+    'mode-line': [
+      [ true 
+      ]
+    ],
+    'mode-line-inactive': [
+      [ true 
+      ]
+    ],
+    'mode-line-highlight': [
+      [ true 
+      ]
+    ],
+    'mode-line-emphasis': [
+      [ true 
+      ]
+    ],
+    'mode-line-buffer-id': [
+      [ true 
+      ]
+    ],
+    'header-line': [
+      [ true 
+      ]
+    ],
+    'vertical-border': [
+      [ true 
+      ]
+    ],
+    'minibuffer-prompt': [
+      [ true 
+      ]
+    ],
+    'fringe': [
+      [ true 
+      ]
+    ],
+    'scroll-bar': [
+      [ true 
+      ]
+    ],
+    'border': [
+      [ true 
+      ]
+    ],
+    'cursor': [
+      [ true 
+      ]
+    ],
+    'mouse': [
+      [ true 
+      ]
+    ],
+    'tool-bar': [
+      [ true 
+      ]
+    ],
+    'menu': [
+      [ true 
+      ]
+    ],
+    'completions-first-difference': [
+      [ true 
+      ]
+    ],
+    'completions-common-part': [
+      [ true 
+      ]
+    ],
+    'button': [
+      [ true 
+      ]
+    ],
+    'next-error': [
+      [ true 
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-comment-delimiter-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-doc-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-negation-char-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-preprocessor-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-regexp-grouping-backslash': [
+      [ true 
+      ]
+    ],
+    'font-lock-regexp-grouping-construct': [
+      [ true 
+      ]
+    ],
+    'isearch': [
+      [ true 
+      ]
+    ],
+    'isearch-fail': [
+      [ true 
+      ]
+    ],
+    'lazy-highlight': [
+      [ true 
+      ]
+    ],
+    'file-name-shadow': [
+      [ true 
+      ]
+    ],
+    'query-replace': [
+      [ true 
+      ]
+    ],
+    'match': [
+      [ true 
+      ]
+    ],
+    'buffer-menu-buffer': [
+      [ true 
+      ]
+    ],
+    'tooltip': [
+      [ true 
+      ]
+    ],
+    'widget-documentation': [
+      [ true 
+      ]
+    ],
+    'widget-button': [
+      [ true 
+      ]
+    ],
+    'widget-field': [
+      [ true 
+      ]
+    ],
+    'widget-single-line-field': [
+      [ true 
+      ]
+    ],
+    'widget-inactive': [
+      [ true 
+      ]
+    ],
+    'widget-button-pressed': [
+      [ true 
+      ]
+    ],
+    'help-argument-name': [
+      [ true 
+      ]
+    ]
+  }
+}

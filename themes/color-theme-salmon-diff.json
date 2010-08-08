@@ -1,0 +1,129 @@
+{
+  'theme-url': 'URL FOR color-theme-salmon-diff',
+  'theme-name': 'color-theme-salmon-diff',
+  'theme-doc': 'JSON dump of color-theme-salmon-diff by vic, created 2010-08-06.',
+  'params': {
+
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'change-log-acknowledgement-face': [
+      [ true , {
+          ':foreground': '#add8e6',
+        }
+      ]
+    ],
+    'change-log-conditionals-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+          ':foreground': '#7fffd4',
+        }
+      ]
+    ],
+    'change-log-date-face': [
+      [ true , {
+          ':foreground': '#ffa07a',
+        }
+      ]
+    ],
+    'change-log-email-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+          ':foreground': '#7fffd4',
+        }
+      ]
+    ],
+    'change-log-file-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+          ':foreground': '#7fffd4',
+        }
+      ]
+    ],
+    'change-log-function-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+          ':foreground': '#7fffd4',
+        }
+      ]
+    ],
+    'change-log-list-face': [
+      [ true , {
+          ':foreground': '#fa8072',
+        }
+      ]
+    ],
+    'change-log-name-face': [
+      [ true , {
+          ':foreground': '#7fffd4',
+        }
+      ]
+    ],
+    'diff-added-face': [
+      [ true 
+      ]
+    ],
+    'diff-changed-face': [
+      [ true 
+      ]
+    ],
+    'diff-context-face': [
+      [ true , {
+          ':foreground': '#b3b3b3',
+        }
+      ]
+    ],
+    'diff-file-header-face': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'diff-function-face': [
+      [ true , {
+          ':foreground': '#b3b3b3',
+        }
+      ]
+    ],
+    'diff-header-face': [
+      [ true , {
+          ':foreground': '#ffa07a',
+        }
+      ]
+    ],
+    'diff-hunk-header-face': [
+      [ true , {
+          ':foreground': '#ffa07a',
+        }
+      ]
+    ],
+    'diff-index-face': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'diff-nonexistent-face': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'diff-removed-face': [
+      [ true 
+      ]
+    ],
+    'log-view-message-face': [
+      [ true , {
+          ':foreground': '#ffa07a',
+        }
+      ]
+    ]
+  }
+}

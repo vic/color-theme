@@ -1,0 +1,125 @@
+{
+  'theme-url': 'URL FOR color-theme-beige-diff',
+  'theme-name': 'color-theme-beige-diff',
+  'theme-doc': 'JSON dump of color-theme-beige-diff by vic, created 2010-08-06.',
+  'params': {
+
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'ediff-current-diff-face-A': [
+      [ true , {
+          ':background': '#98fb98',
+          ':foreground': '#b22222',
+        }
+      ]
+    ],
+    'ediff-current-diff-face-Ancestor': [
+      [ true , {
+          ':background': '#d02090',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-current-diff-face-B': [
+      [ true , {
+          ':background': '#ffff00',
+          ':foreground': '#9932cc',
+        }
+      ]
+    ],
+    'ediff-current-diff-face-C': [
+      [ true , {
+          ':background': '#ffc0cb',
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'ediff-even-diff-face-A': [
+      [ true , {
+          ':background': '#d3d3d3',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-even-diff-face-Ancestor': [
+      [ true , {
+          ':background': '#bebebe',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'ediff-even-diff-face-B': [
+      [ true , {
+          ':background': '#bebebe',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'ediff-even-diff-face-C': [
+      [ true , {
+          ':background': '#d3d3d3',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-fine-diff-face-A': [
+      [ true , {
+          ':background': '#87ceeb',
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'ediff-fine-diff-face-Ancestor': [
+      [ true , {
+          ':background': '#00ff00',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-fine-diff-face-B': [
+      [ true , {
+          ':background': '#00ffff',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-fine-diff-face-C': [
+      [ true , {
+          ':background': '#40e0d0',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-odd-diff-face-A': [
+      [ true , {
+          ':background': '#bebebe',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'ediff-odd-diff-face-Ancestor': [
+      [ true , {
+          ':background': '#d3d3d3',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-odd-diff-face-B': [
+      [ true , {
+          ':background': '#d3d3d3',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-odd-diff-face-C': [
+      [ true , {
+          ':background': '#bebebe',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ]
+  }
+}

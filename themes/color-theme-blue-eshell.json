@@ -1,0 +1,109 @@
+{
+  'theme-url': 'URL FOR color-theme-blue-eshell',
+  'theme-name': 'color-theme-blue-eshell',
+  'theme-doc': 'JSON dump of color-theme-blue-eshell by vic, created 2010-08-06.',
+  'params': {
+
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'eshell-ls-archive-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#cd5c5c',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-ls-backup-face': [
+      [ true , {
+          ':foreground': '#bebebe',
+        }
+      ]
+    ],
+    'eshell-ls-clutter-face': [
+      [ true , {
+          ':foreground': '#696969',
+        }
+      ]
+    ],
+    'eshell-ls-directory-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#7b68ee',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-ls-executable-face': [
+      [ true , {
+          ':foreground': '#ff7f50',
+        }
+      ]
+    ],
+    'eshell-ls-missing-face': [
+      [ true , {
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'eshell-ls-picture-face': [
+      [ true , {
+          ':foreground': '#ee82ee',
+        }
+      ]
+    ],
+    'eshell-ls-product-face': [
+      [ true , {
+          ':foreground': '#ffa07a',
+        }
+      ]
+    ],
+    'eshell-ls-readonly-face': [
+      [ true , {
+          ':foreground': '#7fffd4',
+        }
+      ]
+    ],
+    'eshell-ls-special-face': [
+      [ true , {
+          ':foreground': '#ffd700',
+        }
+      ]
+    ],
+    'eshell-ls-symlink-face': [
+      [ true , {
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'eshell-ls-text-face': [
+      [ true , {
+          ':foreground': '#66cdaa',
+        }
+      ]
+    ],
+    'eshell-ls-todo-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#7fffd4',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-ls-unreadable-face': [
+      [ true , {
+          ':foreground': '#696969',
+        }
+      ]
+    ],
+    'eshell-prompt-face': [
+      [ true , {
+          ':foreground': '#b0e0e6',
+        }
+      ]
+    ]
+  }
+}

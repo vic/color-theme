@@ -1,0 +1,274 @@
+{
+  'theme-url': 'URL FOR color-theme-jsc-light2',
+  'theme-name': 'color-theme-jsc-light2',
+  'theme-doc': 'JSON dump of color-theme-jsc-light2 by vic, created 2010-08-06.',
+  'params': {
+   'vc-annotate-very-old-color': '#0046ff',
+   'senator-eldoc-use-color': true,
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'bold': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'change-log-file-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'change-log-name-face': [
+      [ true , {
+          ':foreground': '#b03060',
+        }
+      ]
+    ],
+    'comint-highlight-prompt': [
+      [ true , {
+          ':foreground': '#00008b',
+        }
+      ]
+    ],
+    'custom-button-face': [
+      [ true , {
+          ':background': '#d3d3d3',
+          ':foreground': '#000000',
+          ':box': '(:line-width 2 :style released-button)',
+        }
+      ]
+    ],
+    'custom-face-tag-face': [
+      [ true , {
+          ':bold': true,
+          ':family': 'helv',
+          ':weight': 'bold',
+          ':height': '1.2',
+        }
+      ]
+    ],
+    'custom-group-tag-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+          ':height': '1.2',
+        }
+      ]
+    ],
+    'custom-group-tag-face-1': [
+      [ true , {
+          ':bold': true,
+          ':family': 'helv',
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+          ':height': '1.2',
+        }
+      ]
+    ],
+    'custom-variable-tag-face': [
+      [ true , {
+          ':bold': true,
+          ':family': 'helv',
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+          ':height': '1.2',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#b03060',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#000080',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'fringe': [
+      [ true , {
+          ':background': '#e0e0e0',
+        }
+      ]
+    ],
+    'gnus-group-mail-1-empty-face': [
+      [ true , {
+          ':foreground': '#0000ee',
+        }
+      ]
+    ],
+    'gnus-group-news-1-empty-face': [
+      [ true , {
+          ':foreground': '#228b22',
+        }
+      ]
+    ],
+    'gnus-group-news-1-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#228b22',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-header-content-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#8b3a3a',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-header-name-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#b03060',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-header-subject-face': [
+      [ true , {
+          ':foreground': '#8b0000',
+        }
+      ]
+    ],
+    'gnus-signature-face': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-summary-high-read-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#006400',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-summary-high-unread-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-summary-normal-read-face': [
+      [ true , {
+          ':foreground': '#006400',
+        }
+      ]
+    ],
+    'gnus-summary-normal-ticked-face': [
+      [ true , {
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'gnus-summary-normal-unread-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#006400',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'header-line': [
+      [ true , {
+          ':background': '#e5e5e5',
+          ':foreground': '#333333',
+          ':box': null,
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#b4eeb4',
+        }
+      ]
+    ],
+    'ido-subdir-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'isearch': [
+      [ true , {
+          ':background': '#8b008b',
+          ':foreground': '#b0e2ff',
+        }
+      ]
+    ],
+    'mode-line': [
+      [ true , {
+          ':background': '#e0e0e0',
+          ':foreground': '#000000',
+          ':box': '(:line-width -1 :style released-button)',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#eedc82',
+        }
+      ]
+    ],
+    'scroll-bar': [
+      [ true 
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#ffff00',
+        }
+      ]
+    ],
+    'show-paren-match-face': [
+      [ true , {
+          ':background': '#40e0d0',
+        }
+      ]
+    ],
+    'show-paren-mismatch-face': [
+      [ true , {
+          ':background': '#a020f0',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'tooltip': [
+      [ true , {
+          ':background': '#ffffe0',
+          ':foreground': '#000000',
+        }
+      ]
+    ]
+  }
+}

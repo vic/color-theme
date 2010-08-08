@@ -1,0 +1,203 @@
+{
+  'theme-url': 'URL FOR color-theme-slate',
+  'theme-name': 'color-theme-slate',
+  'theme-doc': 'JSON dump of color-theme-slate by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#262626',
+   'background-mode': 'dark',
+   'border-color': '#c2bfa5',
+   'cursor-color': '#708090',
+   'foreground-color': '#f8f8f8',
+   'mouse-color': '#ff8247',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true , {
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'blue': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'border-glyph': [
+      [ true 
+      ]
+    ],
+    'buffers-tab': [
+      [ true , {
+          ':background': '#000000',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':foreground': '#666666',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#ffa0a0',
+        }
+      ]
+    ],
+    'font-lock-doc-string-face': [
+      [ true , {
+          ':foreground': '#ff8c00',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#ffdead',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#ffd700',
+        }
+      ]
+    ],
+    'font-lock-preprocessor-face': [
+      [ true , {
+          ':foreground': '#7fffd4',
+        }
+      ]
+    ],
+    'font-lock-reference-face': [
+      [ true , {
+          ':foreground': '#6a5acd',
+        }
+      ]
+    ],
+    'font-lock-regexp-grouping-backslash': [
+      [ true , {
+          ':foreground': '#e9c062',
+        }
+      ]
+    ],
+    'font-lock-regexp-grouping-construct': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#87ceeb',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':foreground': '#6495ed',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#7587a6',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ffc0cb',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gui-element': [
+      [ true , {
+          ':background': '#303030',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#444444',
+        }
+      ]
+    ],
+    'mode-line': [
+      [ true , {
+          ':background': '#303030',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#222222',
+        }
+      ]
+    ],
+    'highline-face': [
+      [ true , {
+          ':background': '#2e8b57',
+        }
+      ]
+    ],
+    'italic': [
+      [ true 
+      ]
+    ],
+    'left-margin': [
+      [ true 
+      ]
+    ],
+    'text-cursor': [
+      [ true , {
+          ':background': '#ffff00',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'toolbar': [
+      [ true 
+      ]
+    ],
+    'underline': [
+      [ null , {
+          ':underline': null,
+        }
+      ]
+    ],
+    'zmacs-region': [
+      [ true , {
+          ':background': '#fffafa',
+          ':foreground': 'ble',
+        }
+      ]
+    ]
+  }
+}

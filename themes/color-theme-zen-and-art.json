@@ -1,0 +1,237 @@
+{
+  'theme-url': 'URL FOR color-theme-zen-and-art',
+  'theme-name': 'color-theme-zen-and-art',
+  'theme-doc': 'JSON dump of color-theme-zen-and-art by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#191717',
+   'background-mode': 'dark',
+   'border-color': '#000000',
+   'cursor-color': '#a7a7a7',
+   'foreground-color': '#d2dec4',
+   'list-matching-lines-face': 'bold',
+   'view-highlight-face': 'highlight',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':italic': true,
+          ':weight': 'bold',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'fringe': [
+      [ true , {
+          ':background': '#252323',
+        }
+      ]
+    ],
+    'highlight-current-line-face': [
+      [ true , {
+          ':background': '#252323',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#86453a',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#333b40',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-comment-delimiter-face': [
+      [ true , {
+          ':foreground': '#4c565d',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#86453a',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#c6b032',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#ae5825',
+        }
+      ]
+    ],
+    'font-lock-preprocessor-face': [
+      [ true , {
+          ':foreground': '#007575',
+        }
+      ]
+    ],
+    'font-lock-reference-face': [
+      [ true , {
+          ':foreground': '#0055ff',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#5a7644',
+        }
+      ]
+    ],
+    'font-lock-doc-face': [
+      [ true , {
+          ':foreground': '#ddffd1',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#c6b032',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#46657b',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ffc0cb',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'paren-face-match-light': [
+      [ true , {
+          ':background': '#252323',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#556b2f',
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':italic': true,
+        }
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':background': '#3f3b3b',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'modeline-buffer-id': [
+      [ true , {
+          ':background': '#3f3b3b',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'modeline-mousable': [
+      [ true , {
+          ':background': '#a5baf1',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'modeline-mousable-minor-mode': [
+      [ true , {
+          ':background': '#a5baf1',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#3b3b3f',
+        }
+      ]
+    ],
+    'primary-selection': [
+      [ true , {
+          ':background': '#3b3b3f',
+        }
+      ]
+    ],
+    'isearch': [
+      [ true , {
+          ':background': '#555555',
+        }
+      ]
+    ],
+    'zmacs-region': [
+      [ true , {
+          ':background': '#555577',
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#545459',
+        }
+      ]
+    ],
+    'flymake-errline': [
+      [ true , {
+          ':background': '#ffa07a',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'flymake-warnline': [
+      [ true , {
+          ':background': '#b0c4de',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'minibuffer-prompt': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff6600',
+          ':weight': 'bold',
+        }
+      ]
+    ]
+  }
+}

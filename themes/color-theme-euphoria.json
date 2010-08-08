@@ -1,0 +1,415 @@
+{
+  'theme-url': 'URL FOR color-theme-euphoria',
+  'theme-name': 'color-theme-euphoria',
+  'theme-doc': 'JSON dump of color-theme-euphoria by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#000000',
+   'background-mode': 'dark',
+   'border-color': '#000000',
+   'cursor-color': '#ffff00',
+   'foreground-color': '#00ff00',
+   'mouse-color': '#ffff00',
+  },
+  'vars': {
+    'help-highlight-face': 'underline',
+    'list-matching-lines-face': 'bold',
+    'widget-mouse-face': 'highlight',
+  },
+  'faces': {
+    'default': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#000000',
+          ':foreground': '#00ff00',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'misc-fixed',
+        }
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'border': [
+      [ true , {
+          ':background': '#000000',
+        }
+      ]
+    ],
+    'comint-highlight-input': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'comint-highlight-prompt': [
+      [ true , {
+          ':foreground': '#00ffff',
+        }
+      ]
+    ],
+    'cursor': [
+      [ true , {
+          ':background': '#ffff00',
+        }
+      ]
+    ],
+    'fixed-pitch': [
+      [ true , {
+          ':family': 'courier',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#ff00ff',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':foreground': '#ff1493',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'font-lock-doc-face': [
+      [ true , {
+          ':foreground': '#00ffff',
+        }
+      ]
+    ],
+    'font-lock-doc-string-face': [
+      [ true , {
+          ':foreground': '#00ffff',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#a020f0',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'font-lock-preprocessor-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'font-lock-reference-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#00ffff',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':foreground': '#ffff00',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#ee82ee',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'fringe': [
+      [ true , {
+          ':background': '#292929',
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'header-line': [
+      [ true , {
+          ':box': '(:line-width -1 :style released-button)',
+          ':background': '#333333',
+          ':foreground': '#e5e5e5',
+          ':box': null,
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#556b2f',
+        }
+      ]
+    ],
+    'horizontal-divider': [
+      [ true , {
+          ':background': '#292929',
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'isearch': [
+      [ true , {
+          ':background': '#ee799f',
+          ':foreground': '#8b2323',
+        }
+      ]
+    ],
+    'isearch-lazy-highlight-face': [
+      [ true , {
+          ':background': '#668b8b',
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'menu': [
+      [ true , {
+          ':background': '#292929',
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':background': '#292929',
+          ':foreground': '#00ff00',
+          ':box': '(:line-width -1 :style released-button)',
+        }
+      ]
+    ],
+    'modeline-buffer-id': [
+      [ true , {
+          ':background': '#292929',
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'modeline-mousable': [
+      [ true , {
+          ':background': '#292929',
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'modeline-mousable-minor-mode': [
+      [ true , {
+          ':background': '#292929',
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'mouse': [
+      [ true , {
+          ':background': '#ffff00',
+        }
+      ]
+    ],
+    'primary-selection': [
+      [ true , {
+          ':background': '#00ff00',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#4682b4',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'scroll-bar': [
+      [ true , {
+          ':background': '#292929',
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#00ff00',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'show-paren-match-face': [
+      [ true , {
+          ':background': '#40e0d0',
+        }
+      ]
+    ],
+    'show-paren-mismatch-face': [
+      [ true , {
+          ':background': '#a020f0',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'speedbar-button-face': [
+      [ true , {
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'speedbar-directory-face': [
+      [ true , {
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'speedbar-file-face': [
+      [ true , {
+          ':foreground': '#00ffff',
+        }
+      ]
+    ],
+    'speedbar-highlight-face': [
+      [ true , {
+          ':background': '#00ff00',
+          ':foreground': '#a020f0',
+        }
+      ]
+    ],
+    'speedbar-selected-face': [
+      [ true , {
+          ':foreground': '#ff1493',
+          ':underline': true,
+        }
+      ]
+    ],
+    'speedbar-tag-face': [
+      [ true , {
+          ':foreground': '#ffff00',
+        }
+      ]
+    ],
+    'tool-bar': [
+      [ true , {
+          ':background': '#292929',
+          ':foreground': '#00ff00',
+          ':box': '(:line-width 1 :style released-button)',
+        }
+      ]
+    ],
+    'tooltip': [
+      [ true , {
+          ':background': '#292929',
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'trailing-whitespace': [
+      [ true , {
+          ':background': '#ff0000',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'variable-pitch': [
+      [ true , {
+          ':family': 'helv',
+        }
+      ]
+    ],
+    'vertical-divider': [
+      [ true , {
+          ':background': '#292929',
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'widget-button-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'widget-button-pressed-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'widget-documentation-face': [
+      [ true , {
+          ':foreground': '#32cd32',
+        }
+      ]
+    ],
+    'widget-field-face': [
+      [ true , {
+          ':background': '#696969',
+        }
+      ]
+    ],
+    'widget-inactive-face': [
+      [ true , {
+          ':foreground': '#d3d3d3',
+        }
+      ]
+    ],
+    'widget-single-line-field-face': [
+      [ true , {
+          ':background': '#696969',
+        }
+      ]
+    ],
+    'zmacs-region': [
+      [ true , {
+          ':background': '#4682b4',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ]
+  }
+}

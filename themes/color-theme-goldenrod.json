@@ -1,0 +1,229 @@
+{
+  'theme-url': 'URL FOR color-theme-goldenrod',
+  'theme-name': 'color-theme-goldenrod',
+  'theme-doc': 'JSON dump of color-theme-goldenrod by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#000000',
+   'background-mode': 'dark',
+   'border-color': '#000000',
+   'cursor-color': '#eedd82',
+   'foreground-color': '#daa520',
+   'mouse-color': '#daa520',
+  },
+  'vars': {
+    'goto-address-mail-face': 'info-xref',
+    'list-matching-lines-face': 'bold',
+    'view-highlight-face': 'highlight',
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#e6e6fa',
+          ':weight': 'bold',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#eee8aa',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':foreground': '#cd5c5c',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#98fb98',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#fffacd',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#f5deb3',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#ffd700',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':foreground': '#bdb76b',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#f0e68c',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff4500',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'fringe': [
+      [ true , {
+          ':background': '#404040',
+        }
+      ]
+    ],
+    'header-line': [
+      [ true , {
+          ':background': '#333333',
+          ':foreground': '#b3b3b3',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#483d8b',
+        }
+      ]
+    ],
+    'info-menu-5': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'info-node': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'info-xref': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#eee8aa',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'isearch': [
+      [ true , {
+          ':background': '#2e8b57',
+        }
+      ]
+    ],
+    'isearch-lazy-highlight-face': [
+      [ true , {
+          ':background': '#6e8b3d',
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#e6e6fa',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'menu': [
+      [ true , {
+          ':background': '#404040',
+          ':foreground': '#fffacd',
+        }
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':background': '#666666',
+          ':foreground': '#fffacd',
+          ':box': '(:line-width 1 :style released-button)',
+        }
+      ]
+    ],
+    'modeline-buffer-id': [
+      [ true , {
+          ':background': '#8b8378',
+          ':foreground': '#fffacd',
+        }
+      ]
+    ],
+    'modeline-mousable': [
+      [ true , {
+          ':background': '#8b8378',
+          ':foreground': '#fffacd',
+        }
+      ]
+    ],
+    'modeline-mousable-minor-mode': [
+      [ true , {
+          ':background': '#f5deb3',
+          ':foreground': '#fffacd',
+        }
+      ]
+    ],
+    'mode-line-inactive': [
+      [ true , {
+          ':background': '#333333',
+          ':foreground': '#fffacd',
+          ':box': '(:line-width 1 :style released-button)',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#556b2f',
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#006400',
+        }
+      ]
+    ],
+    'tool-bar': [
+      [ true , {
+          ':background': '#404040',
+          ':foreground': '#fffacd',
+          ':box': '(:line-width 1 :style released-button)',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ]
+  }
+}

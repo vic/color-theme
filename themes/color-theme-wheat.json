@@ -1,0 +1,14 @@
+{
+  'theme-url': 'URL FOR color-theme-wheat',
+  'theme-name': 'color-theme-wheat',
+  'theme-doc': 'JSON dump of color-theme-wheat by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#f5deb3',
+  },
+  'vars': {
+
+  },
+  'faces': {
+
+  }
+}

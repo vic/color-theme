@@ -1,0 +1,55 @@
+{
+  'theme-url': 'URL FOR color-theme-dark-info',
+  'theme-name': 'color-theme-dark-info',
+  'theme-doc': 'JSON dump of color-theme-dark-info by vic, created 2010-08-06.',
+  'params': {
+
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'info-header-node': [
+      [ true , {
+          ':foreground': '#606060',
+        }
+      ]
+    ],
+    'info-header-xref': [
+      [ true , {
+          ':foreground': '#606060',
+        }
+      ]
+    ],
+    'info-menu-5': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'info-menu-header': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#606060',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'info-node': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#808080',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'info-xref': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#707070',
+          ':weight': 'bold',
+        }
+      ]
+    ]
+  }
+}

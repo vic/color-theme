@@ -1,0 +1,260 @@
+{
+
+  "color-theme-blackboard": "themes/color-theme-blackboard.json",
+
+  "color-theme-awesome": "themes/color-theme-awesome.json",
+
+  "color-theme-bespin": "themes/color-theme-bespin.json",
+
+  "color-theme-chocolate-rain": "themes/color-theme-chocolate-rain.json",
+
+  "color-theme-colorblind": "themes/color-theme-colorblind.json",
+
+  "color-theme-dark-vee": "themes/color-theme-dark-vee.json",
+
+  "color-theme-dirac": "themes/color-theme-dirac.json",
+
+  "color-theme-example": "themes/color-theme-example.json",
+
+  "color-theme-github": "themes/color-theme-github.json",
+
+  "color-theme-inkpot": "themes/color-theme-inkpot.json",
+
+  "color-theme-ir-black": "themes/color-theme-ir-black.json",
+
+  "color-theme-aalto-dark": "themes/color-theme-aalto-dark.json",
+
+  "color-theme-aalto-light": "themes/color-theme-aalto-light.json",
+
+  "color-theme-aliceblue": "themes/color-theme-aliceblue.json",
+
+  "color-theme-andreas": "themes/color-theme-andreas.json",
+
+  "color-theme-arjen": "themes/color-theme-arjen.json",
+
+  "color-theme-beige-diff": "themes/color-theme-beige-diff.json",
+
+  "color-theme-beige-eshell": "themes/color-theme-beige-eshell.json",
+
+  "color-theme-bharadwaj": "themes/color-theme-bharadwaj.json",
+
+  "color-theme-bharadwaj-slate": "themes/color-theme-bharadwaj-slate.json",
+
+  "color-theme-billw": "themes/color-theme-billw.json",
+
+  "color-theme-black-on-gray": "themes/color-theme-black-on-gray.json",
+
+  "color-theme-blippblopp": "themes/color-theme-blippblopp.json",
+
+  "color-theme-blue-erc": "themes/color-theme-blue-erc.json",
+
+  "color-theme-blue-eshell": "themes/color-theme-blue-eshell.json",
+
+  "color-theme-blue-gnus": "themes/color-theme-blue-gnus.json",
+
+  "color-theme-blue-mood": "themes/color-theme-blue-mood.json",
+
+  "color-theme-blue-sea": "themes/color-theme-blue-sea.json",
+
+  "color-theme-calm-forest": "themes/color-theme-calm-forest.json",
+
+  "color-theme-charcoal-black": "themes/color-theme-charcoal-black.json",
+
+  "color-theme-clarity": "themes/color-theme-clarity.json",
+
+  "color-theme-classic": "themes/color-theme-classic.json",
+
+  "color-theme-comidia": "themes/color-theme-comidia.json",
+
+  "color-theme-dark-blue": "themes/color-theme-dark-blue.json",
+
+  "color-theme-dark-blue2": "themes/color-theme-dark-blue2.json",
+
+  "color-theme-dark-erc": "themes/color-theme-dark-erc.json",
+
+  "color-theme-dark-font-lock": "themes/color-theme-dark-font-lock.json",
+
+  "color-theme-dark-gnus": "themes/color-theme-dark-gnus.json",
+
+  "color-theme-dark-green": "themes/color-theme-dark-green.json",
+
+  "color-theme-dark-info": "themes/color-theme-dark-info.json",
+
+  "color-theme-dark-laptop": "themes/color-theme-dark-laptop.json",
+
+  "color-theme-deep-blue": "themes/color-theme-deep-blue.json",
+
+  "color-theme-digital-ofs1": "themes/color-theme-digital-ofs1.json",
+
+  "color-theme-emacs-21": "themes/color-theme-emacs-21.json",
+
+  "color-theme-emacs-nw": "themes/color-theme-emacs-nw.json",
+
+  "color-theme-euphoria": "themes/color-theme-euphoria.json",
+
+  "color-theme-feng-shui": "themes/color-theme-feng-shui.json",
+
+  "color-theme-fischmeister": "themes/color-theme-fischmeister.json",
+
+  "color-theme-gnome": "themes/color-theme-gnome.json",
+
+  "color-theme-gnome2": "themes/color-theme-gnome2.json",
+
+  "color-theme-goldenrod": "themes/color-theme-goldenrod.json",
+
+  "color-theme-gray1": "themes/color-theme-gray1.json",
+
+  "color-theme-gray30": "themes/color-theme-gray30.json",
+
+  "color-theme-greiner": "themes/color-theme-greiner.json",
+
+  "color-theme-gtk-ide": "themes/color-theme-gtk-ide.json",
+
+  "color-theme-high-contrast": "themes/color-theme-high-contrast.json",
+
+  "color-theme-hober": "themes/color-theme-hober.json",
+
+  "color-theme-infodoc": "themes/color-theme-infodoc.json",
+
+  "color-theme-jb-simple": "themes/color-theme-jb-simple.json",
+
+  "color-theme-jedit-grey": "themes/color-theme-jedit-grey.json",
+
+  "color-theme-jonadabian": "themes/color-theme-jonadabian.json",
+
+  "color-theme-jonadabian-slate": "themes/color-theme-jonadabian-slate.json",
+
+  "color-theme-jsc-dark": "themes/color-theme-jsc-dark.json",
+
+  "color-theme-jsc-light": "themes/color-theme-jsc-light.json",
+
+  "color-theme-jsc-light2": "themes/color-theme-jsc-light2.json",
+
+  "color-theme-katester": "themes/color-theme-katester.json",
+
+  "color-theme-kingsajz": "themes/color-theme-kingsajz.json",
+
+  "color-theme-late-night": "themes/color-theme-late-night.json",
+
+  "color-theme-lawrence": "themes/color-theme-lawrence.json",
+
+  "color-theme-ld-dark": "themes/color-theme-ld-dark.json",
+
+  "color-theme-lethe": "themes/color-theme-lethe.json",
+
+  "color-theme-marine": "themes/color-theme-marine.json",
+
+  "color-theme-marquardt": "themes/color-theme-marquardt.json",
+
+  "color-theme-matrix": "themes/color-theme-matrix.json",
+
+  "color-theme-midnight": "themes/color-theme-midnight.json",
+
+  "color-theme-mistyday": "themes/color-theme-mistyday.json",
+
+  "color-theme-montz": "themes/color-theme-montz.json",
+
+  "color-theme-oswald": "themes/color-theme-oswald.json",
+
+  "color-theme-parus": "themes/color-theme-parus.json",
+
+  "color-theme-pierson": "themes/color-theme-pierson.json",
+
+  "color-theme-pok-wob": "themes/color-theme-pok-wob.json",
+
+  "color-theme-pok-wog": "themes/color-theme-pok-wog.json",
+
+  "color-theme-ramangalahy": "themes/color-theme-ramangalahy.json",
+
+  "color-theme-raspopovic": "themes/color-theme-raspopovic.json",
+
+  "color-theme-renegade": "themes/color-theme-renegade.json",
+
+  "color-theme-resolve": "themes/color-theme-resolve.json",
+
+  "color-theme-retro-green": "themes/color-theme-retro-green.json",
+
+  "color-theme-retro-orange": "themes/color-theme-retro-orange.json",
+
+  "color-theme-robin-hood": "themes/color-theme-robin-hood.json",
+
+  "color-theme-rotor": "themes/color-theme-rotor.json",
+
+  "color-theme-ryerson": "themes/color-theme-ryerson.json",
+
+  "color-theme-salmon-diff": "themes/color-theme-salmon-diff.json",
+
+  "color-theme-salmon-font-lock": "themes/color-theme-salmon-font-lock.json",
+
+  "color-theme-scintilla": "themes/color-theme-scintilla.json",
+
+  "color-theme-shaman": "themes/color-theme-shaman.json",
+
+  "color-theme-simple-1": "themes/color-theme-simple-1.json",
+
+  "color-theme-sitaramv-nt": "themes/color-theme-sitaramv-nt.json",
+
+  "color-theme-sitaramv-solaris": "themes/color-theme-sitaramv-solaris.json",
+
+  "color-theme-snow": "themes/color-theme-snow.json",
+
+  "color-theme-snowish": "themes/color-theme-snowish.json",
+
+  "color-theme-standard": "themes/color-theme-standard.json",
+
+  "color-theme-standard-ediff": "themes/color-theme-standard-ediff.json",
+
+  "color-theme-subtle-blue": "themes/color-theme-subtle-blue.json",
+
+  "color-theme-subtle-hacker": "themes/color-theme-subtle-hacker.json",
+
+  "color-theme-taming-mr-arneson": "themes/color-theme-taming-mr-arneson.json",
+
+  "color-theme-taylor": "themes/color-theme-taylor.json",
+
+  "color-theme-tty-dark": "themes/color-theme-tty-dark.json",
+
+  "color-theme-vim-colors": "themes/color-theme-vim-colors.json",
+
+  "color-theme-whateveryouwant": "themes/color-theme-whateveryouwant.json",
+
+  "color-theme-wheat": "themes/color-theme-wheat.json",
+
+  "color-theme-word-perfect": "themes/color-theme-word-perfect.json",
+
+  "color-theme-xemacs": "themes/color-theme-xemacs.json",
+
+  "color-theme-xp": "themes/color-theme-xp.json",
+
+  "color-theme-merbivore": "themes/color-theme-merbivore.json",
+
+  "color-theme-railscasts": "themes/color-theme-railscasts.json",
+
+  "color-theme-slate": "themes/color-theme-slate.json",
+
+  "color-theme-subdued": "themes/color-theme-subdued.json",
+
+  "color-theme-tango-2": "themes/color-theme-tango-2.json",
+
+  "color-theme-tango": "themes/color-theme-tango.json",
+
+  "color-theme-tangosoft": "themes/color-theme-tangosoft.json",
+
+  "color-theme-tangotango": "themes/color-theme-tangotango.json",
+
+  "color-theme-thunk1": "themes/color-theme-thunk1.json",
+
+  "color-theme-twilight": "themes/color-theme-twilight.json",
+
+  "color-theme-vibrant-ink": "themes/color-theme-vibrant-ink.json",
+
+  "color-theme-wombat": "themes/color-theme-wombat.json",
+
+  "color-theme-zen-and-art": "themes/color-theme-zen-and-art.json",
+
+  "color-theme-twilight": "themes/color-theme-twilight.json",
+
+  "color-theme-zenburn": "themes/color-theme-zenburn.json",
+
+
+}

@@ -1,0 +1,2502 @@
+{
+  'theme-url': 'URL FOR color-theme-emacs-nw',
+  'theme-name': 'color-theme-emacs-nw',
+  'theme-doc': 'JSON dump of color-theme-emacs-nw by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#ffffff',
+   'background-mode': 'light',
+   'border-color': '#000000',
+   'cursor-color': '#000000',
+   'foreground-color': '#000000',
+   'mouse-color': '#000000',
+  },
+  'vars': {
+    'Man-overstrike-face': 'bold',
+    'Man-underline-face': 'underline',
+    'cperl-here-face': 'font-lock-string-face',
+    'cperl-invalid-face': 'underline',
+    'cperl-pod-face': 'font-lock-comment-face',
+    'cperl-pod-head-face': 'font-lock-variable-name-face',
+    'gnus-article-button-face': 'bold',
+    'gnus-article-mouse-face': 'highlight',
+    'gnus-cite-attribution-face': 'gnus-cite-attribution-face',
+    'gnus-mouse-face': 'highlight',
+    'gnus-signature-face': 'gnus-signature-face',
+    'gnus-summary-selected-face': 'gnus-summary-selected-face',
+    'help-highlight-face': 'underline',
+    'idlwave-class-arrow-face': 'bold',
+    'idlwave-shell-breakpoint-face': 'idlwave-shell-bp-face',
+    'idlwave-shell-expression-face': 'secondary-selection',
+    'idlwave-shell-stop-line-face': 'highlight',
+    'ispell-highlight-face': 'highlight',
+    'list-matching-lines-face': 'bold',
+    'view-highlight-face': 'highlight',
+    'viper-insert-state-cursor-color': '#00ff00',
+    'viper-replace-overlay-cursor-color': '#ff0000',
+    'widget-mouse-face': 'highlight',
+  },
+  'faces': {
+    'default': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'Info-title-1-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+          ':family': 'helv',
+          ':height': '1.728',
+        }
+      ]
+    ],
+    'Info-title-2-face': [
+      [ true , {
+          ':bold': true,
+          ':family': 'helv',
+          ':weight': 'bold',
+          ':height': '1.44',
+        }
+      ]
+    ],
+    'Info-title-3-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+          ':family': 'helv',
+          ':height': '1.2',
+        }
+      ]
+    ],
+    'Info-title-4-face': [
+      [ true , {
+          ':bold': true,
+          ':family': 'helv',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'antlr-font-lock-keyword-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#000000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'antlr-font-lock-literal-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#8b2323',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'antlr-font-lock-ruledef-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'antlr-font-lock-ruleref-face': [
+      [ true , {
+          ':foreground': '#00008b',
+        }
+      ]
+    ],
+    'antlr-font-lock-tokendef-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'antlr-font-lock-tokenref-face': [
+      [ true , {
+          ':foreground': '#8b5a00',
+        }
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'border': [
+      [ true , {
+          ':background': '#000000',
+        }
+      ]
+    ],
+    'calendar-today-face': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'change-log-acknowledgement-face': [
+      [ true , {
+          ':foreground': '#b22222',
+        }
+      ]
+    ],
+    'change-log-conditionals-face': [
+      [ true , {
+          ':foreground': '#b8860b',
+        }
+      ]
+    ],
+    'change-log-date-face': [
+      [ true , {
+          ':foreground': '#bc8f8f',
+        }
+      ]
+    ],
+    'change-log-email-face': [
+      [ true , {
+          ':foreground': '#b8860b',
+        }
+      ]
+    ],
+    'change-log-file-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'change-log-function-face': [
+      [ true , {
+          ':foreground': '#b8860b',
+        }
+      ]
+    ],
+    'change-log-list-face': [
+      [ true , {
+          ':foreground': '#a020f0',
+        }
+      ]
+    ],
+    'change-log-name-face': [
+      [ true , {
+          ':foreground': '#5f9ea0',
+        }
+      ]
+    ],
+    'comint-highlight-input': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'comint-highlight-prompt': [
+      [ true , {
+          ':foreground': '#00008b',
+        }
+      ]
+    ],
+    'cperl-array-face': [
+      [ true , {
+          ':bold': true,
+          ':background': '#eeeed1',
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'cperl-hash-face': [
+      [ true , {
+          ':italic': true,
+          ':background': '#eeeed1',
+          ':foreground': '#ff0000',
+          ':slant': 'italic',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'cperl-nonoverridable-face': [
+      [ true , {
+          ':foreground': '#66cd00',
+        }
+      ]
+    ],
+    'cursor': [
+      [ true , {
+          ':background': '#000000',
+        }
+      ]
+    ],
+    'custom-button-face': [
+      [ true , {
+          ':background': '#d3d3d3',
+          ':foreground': '#000000',
+          ':box': '(:line-width 2 :style released-button)',
+        }
+      ]
+    ],
+    'custom-button-pressed-face': [
+      [ true , {
+          ':background': '#d3d3d3',
+          ':foreground': '#000000',
+          ':box': '(:line-width 2 :style pressed-button)',
+        }
+      ]
+    ],
+    'custom-changed-face': [
+      [ true , {
+          ':background': '#0000ff',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'custom-comment-face': [
+      [ true , {
+          ':background': '#d9d9d9',
+        }
+      ]
+    ],
+    'custom-comment-tag-face': [
+      [ true , {
+          ':foreground': '#00008b',
+        }
+      ]
+    ],
+    'custom-documentation-face': [
+      [ true 
+      ]
+    ],
+    'custom-face-tag-face': [
+      [ true , {
+          ':bold': true,
+          ':family': 'helv',
+          ':weight': 'bold',
+          ':height': '1.2',
+        }
+      ]
+    ],
+    'custom-group-tag-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+          ':height': '1.2',
+        }
+      ]
+    ],
+    'custom-group-tag-face-1': [
+      [ true , {
+          ':bold': true,
+          ':family': 'helv',
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+          ':height': '1.2',
+        }
+      ]
+    ],
+    'custom-invalid-face': [
+      [ true , {
+          ':background': '#ff0000',
+          ':foreground': '#ffff00',
+        }
+      ]
+    ],
+    'custom-modified-face': [
+      [ true , {
+          ':background': '#0000ff',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'custom-rogue-face': [
+      [ true , {
+          ':background': '#000000',
+          ':foreground': '#ffc0cb',
+        }
+      ]
+    ],
+    'custom-saved-face': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'custom-set-face': [
+      [ true , {
+          ':background': '#ffffff',
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'custom-state-face': [
+      [ true , {
+          ':foreground': '#006400',
+        }
+      ]
+    ],
+    'custom-variable-button-face': [
+      [ true , {
+          ':bold': true,
+          ':underline': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'custom-variable-tag-face': [
+      [ true , {
+          ':bold': true,
+          ':family': 'helv',
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+          ':height': '1.2',
+        }
+      ]
+    ],
+    'cvs-filename-face': [
+      [ true , {
+          ':foreground': '#00008b',
+        }
+      ]
+    ],
+    'cvs-handled-face': [
+      [ true , {
+          ':foreground': '#ffc0cb',
+        }
+      ]
+    ],
+    'cvs-header-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#00008b',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'cvs-marked-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#00cd00',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'cvs-msg-face': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'cvs-need-action-face': [
+      [ true , {
+          ':foreground': '#ffa500',
+        }
+      ]
+    ],
+    'cvs-unknown-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'diary-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'diff-added-face': [
+      [ true 
+      ]
+    ],
+    'diff-changed-face': [
+      [ true 
+      ]
+    ],
+    'diff-context-face': [
+      [ true , {
+          ':foreground': '#7f7f7f',
+        }
+      ]
+    ],
+    'diff-file-header-face': [
+      [ true , {
+          ':bold': true,
+          ':background': '#b3b3b3',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'diff-function-face': [
+      [ true , {
+          ':foreground': '#7f7f7f',
+        }
+      ]
+    ],
+    'diff-header-face': [
+      [ true , {
+          ':background': '#d9d9d9',
+        }
+      ]
+    ],
+    'diff-hunk-header-face': [
+      [ true , {
+          ':background': '#d9d9d9',
+        }
+      ]
+    ],
+    'diff-index-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+          ':background': '#b3b3b3',
+        }
+      ]
+    ],
+    'diff-nonexistent-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+          ':background': '#b3b3b3',
+        }
+      ]
+    ],
+    'diff-removed-face': [
+      [ true 
+      ]
+    ],
+    'dired-face-boring': [
+      [ true , {
+          ':foreground': '#bc8f8f',
+        }
+      ]
+    ],
+    'dired-face-directory': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'dired-face-executable': [
+      [ true 
+      ]
+    ],
+    'dired-face-flagged': [
+      [ true , {
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'dired-face-marked': [
+      [ true , {
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'dired-face-permissions': [
+      [ true 
+      ]
+    ],
+    'dired-face-setuid': [
+      [ true 
+      ]
+    ],
+    'dired-face-socket': [
+      [ true 
+      ]
+    ],
+    'dired-face-symlink': [
+      [ true , {
+          ':foreground': '#a020f0',
+        }
+      ]
+    ],
+    'ebrowse-default-face': [
+      [ true 
+      ]
+    ],
+    'ebrowse-file-name-face': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'ebrowse-member-attribute-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'ebrowse-member-class-face': [
+      [ true , {
+          ':foreground': '#a020f0',
+        }
+      ]
+    ],
+    'ebrowse-progress-face': [
+      [ true , {
+          ':background': '#0000ff',
+        }
+      ]
+    ],
+    'ebrowse-root-class-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'ebrowse-tree-mark-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'ediff-current-diff-face-A': [
+      [ true , {
+          ':background': '#98fb98',
+          ':foreground': '#b22222',
+        }
+      ]
+    ],
+    'ediff-current-diff-face-Ancestor': [
+      [ true , {
+          ':background': '#d02090',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-current-diff-face-B': [
+      [ true , {
+          ':background': '#ffff00',
+          ':foreground': '#9932cc',
+        }
+      ]
+    ],
+    'ediff-current-diff-face-C': [
+      [ true , {
+          ':background': '#ffc0cb',
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'ediff-even-diff-face-A': [
+      [ true , {
+          ':background': '#d3d3d3',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-even-diff-face-Ancestor': [
+      [ true , {
+          ':background': '#bebebe',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'ediff-even-diff-face-B': [
+      [ true , {
+          ':background': '#bebebe',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'ediff-even-diff-face-C': [
+      [ true , {
+          ':background': '#d3d3d3',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-fine-diff-face-A': [
+      [ true , {
+          ':background': '#87ceeb',
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'ediff-fine-diff-face-Ancestor': [
+      [ true , {
+          ':background': '#00ff00',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-fine-diff-face-B': [
+      [ true , {
+          ':background': '#00ffff',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-fine-diff-face-C': [
+      [ true , {
+          ':background': '#40e0d0',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-odd-diff-face-A': [
+      [ true , {
+          ':background': '#bebebe',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'ediff-odd-diff-face-Ancestor': [
+      [ true , {
+          ':background': '#d3d3d3',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-odd-diff-face-B': [
+      [ true , {
+          ':background': '#d3d3d3',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'ediff-odd-diff-face-C': [
+      [ true , {
+          ':background': '#bebebe',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'eshell-ls-archive-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#da70d6',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-ls-backup-face': [
+      [ true , {
+          ':foreground': '#ff4500',
+        }
+      ]
+    ],
+    'eshell-ls-clutter-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff4500',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-ls-directory-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-ls-executable-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#228b22',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-ls-missing-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-ls-product-face': [
+      [ true , {
+          ':foreground': '#ff4500',
+        }
+      ]
+    ],
+    'eshell-ls-readonly-face': [
+      [ true , {
+          ':foreground': '#a52a2a',
+        }
+      ]
+    ],
+    'eshell-ls-special-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff00ff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-ls-symlink-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#008b8b',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-ls-unreadable-face': [
+      [ true , {
+          ':foreground': '#4d4d4d',
+        }
+      ]
+    ],
+    'eshell-prompt-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-test-failed-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff4500',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'eshell-test-ok-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#00ff00',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'excerpt': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'fixed': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'fixed-pitch': [
+      [ true , {
+          ':family': 'courier',
+        }
+      ]
+    ],
+    'flyspell-duplicate-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#cdad00',
+          ':underline': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'flyspell-incorrect-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff4500',
+          ':underline': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#da70d6',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':foreground': '#b22222',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#5f9ea0',
+        }
+      ]
+    ],
+    'font-lock-doc-face': [
+      [ true , {
+          ':foreground': '#bc8f8f',
+        }
+      ]
+    ],
+    'font-lock-doc-string-face': [
+      [ true , {
+          ':foreground': '#bc8f8f',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#a020f0',
+        }
+      ]
+    ],
+    'font-lock-preprocessor-face': [
+      [ true , {
+          ':foreground': '#5f9ea0',
+        }
+      ]
+    ],
+    'font-lock-reference-face': [
+      [ true , {
+          ':foreground': '#da70d6',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#bc8f8f',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':foreground': '#228b22',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#b8860b',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'fringe': [
+      [ true , {
+          ':background': '#f2f2f2',
+        }
+      ]
+    ],
+    'gnus-cite-attribution-face': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-cite-face-1': [
+      [ true , {
+          ':foreground': '#191970',
+        }
+      ]
+    ],
+    'gnus-cite-face-10': [
+      [ true , {
+          ':foreground': '#9370db',
+        }
+      ]
+    ],
+    'gnus-cite-face-11': [
+      [ true , {
+          ':foreground': '#40e0d0',
+        }
+      ]
+    ],
+    'gnus-cite-face-2': [
+      [ true , {
+          ':foreground': '#b22222',
+        }
+      ]
+    ],
+    'gnus-cite-face-3': [
+      [ true , {
+          ':foreground': '#006400',
+        }
+      ]
+    ],
+    'gnus-cite-face-4': [
+      [ true , {
+          ':foreground': '#ff4500',
+        }
+      ]
+    ],
+    'gnus-cite-face-5': [
+      [ true , {
+          ':foreground': '#bdb76b',
+        }
+      ]
+    ],
+    'gnus-cite-face-6': [
+      [ true , {
+          ':foreground': '#9400d3',
+        }
+      ]
+    ],
+    'gnus-cite-face-7': [
+      [ true , {
+          ':foreground': '#36648b',
+        }
+      ]
+    ],
+    'gnus-cite-face-8': [
+      [ true , {
+          ':foreground': '#ff00ff',
+        }
+      ]
+    ],
+    'gnus-cite-face-9': [
+      [ true , {
+          ':foreground': '#ee82ee',
+        }
+      ]
+    ],
+    'gnus-emphasis-bold': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-emphasis-bold-italic': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-emphasis-highlight-words': [
+      [ true , {
+          ':background': '#000000',
+          ':foreground': '#ffff00',
+        }
+      ]
+    ],
+    'gnus-emphasis-italic': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-emphasis-underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'gnus-emphasis-underline-bold': [
+      [ true , {
+          ':bold': true,
+          ':underline': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-emphasis-underline-bold-italic': [
+      [ true , {
+          ':italic': true,
+          ':underline': true,
+          ':slant': 'italic',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-emphasis-underline-italic': [
+      [ true , {
+          ':italic': true,
+          ':underline': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-group-mail-1-empty-face': [
+      [ true , {
+          ':foreground': '#cd1076',
+        }
+      ]
+    ],
+    'gnus-group-mail-1-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#cd1076',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-group-mail-2-empty-face': [
+      [ true , {
+          ':foreground': '#cd6090',
+        }
+      ]
+    ],
+    'gnus-group-mail-2-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#cd6090',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-group-mail-3-empty-face': [
+      [ true , {
+          ':foreground': '#8b008b',
+        }
+      ]
+    ],
+    'gnus-group-mail-3-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#8b008b',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-group-mail-low-empty-face': [
+      [ true , {
+          ':foreground': '#8b0a50',
+        }
+      ]
+    ],
+    'gnus-group-mail-low-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#8b0a50',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-group-news-1-empty-face': [
+      [ true , {
+          ':foreground': '#228b22',
+        }
+      ]
+    ],
+    'gnus-group-news-1-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#228b22',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-group-news-2-empty-face': [
+      [ true , {
+          ':foreground': '#53868b',
+        }
+      ]
+    ],
+    'gnus-group-news-2-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#53868b',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-group-news-3-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-3-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-group-news-4-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-4-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-group-news-5-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-5-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-group-news-6-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-6-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-group-news-low-empty-face': [
+      [ true , {
+          ':foreground': '#006400',
+        }
+      ]
+    ],
+    'gnus-group-news-low-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#006400',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-header-content-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#8b3a3a',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-header-from-face': [
+      [ true , {
+          ':foreground': '#cd0000',
+        }
+      ]
+    ],
+    'gnus-header-name-face': [
+      [ true , {
+          ':foreground': '#b03060',
+        }
+      ]
+    ],
+    'gnus-header-newsgroups-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#191970',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-header-subject-face': [
+      [ true , {
+          ':foreground': '#8b0000',
+        }
+      ]
+    ],
+    'gnus-signature-face': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-splash-face': [
+      [ true , {
+          ':foreground': '#a52a2a',
+        }
+      ]
+    ],
+    'gnus-summary-cancelled-face': [
+      [ true , {
+          ':background': '#000000',
+          ':foreground': '#ffff00',
+        }
+      ]
+    ],
+    'gnus-summary-high-ancient-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#4169e1',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-summary-high-read-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#006400',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-summary-high-ticked-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#b22222',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-summary-high-unread-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'gnus-summary-low-ancient-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#4169e1',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-summary-low-read-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#006400',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-summary-low-ticked-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#b22222',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-summary-low-unread-face': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'gnus-summary-normal-ancient-face': [
+      [ true , {
+          ':foreground': '#4169e1',
+        }
+      ]
+    ],
+    'gnus-summary-normal-read-face': [
+      [ true , {
+          ':foreground': '#006400',
+        }
+      ]
+    ],
+    'gnus-summary-normal-ticked-face': [
+      [ true , {
+          ':foreground': '#b22222',
+        }
+      ]
+    ],
+    'gnus-summary-normal-unread-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-selected-face': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'header-line': [
+      [ true , {
+          ':box': '(:line-width -1 :style released-button)',
+          ':background': '#e5e5e5',
+          ':foreground': '#333333',
+          ':box': null,
+        }
+      ]
+    ],
+    'hi-black-b': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'hi-black-hb': [
+      [ true , {
+          ':bold': true,
+          ':family': 'helv',
+          ':weight': 'bold',
+          ':height': '1.67',
+        }
+      ]
+    ],
+    'hi-blue': [
+      [ true , {
+          ':background': '#add8e6',
+        }
+      ]
+    ],
+    'hi-blue-b': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'hi-green': [
+      [ true , {
+          ':background': '#00ff00',
+        }
+      ]
+    ],
+    'hi-green-b': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#00ff00',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'hi-pink': [
+      [ true , {
+          ':background': '#ffc0cb',
+        }
+      ]
+    ],
+    'hi-red-b': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'hi-yellow': [
+      [ true , {
+          ':background': '#ffff00',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#b4eeb4',
+        }
+      ]
+    ],
+    'highlight-changes-delete-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+          ':underline': true,
+        }
+      ]
+    ],
+    'highlight-changes-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'holiday-face': [
+      [ true , {
+          ':background': '#ffc0cb',
+        }
+      ]
+    ],
+    'idlwave-help-link-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'idlwave-shell-bp-face': [
+      [ true , {
+          ':background': '#ffc0cb',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'info-header-node': [
+      [ true , {
+          ':italic': true,
+          ':weight': 'bold',
+          ':slant': 'italic',
+          ':foreground': '#a52a2a',
+        }
+      ]
+    ],
+    'info-header-xref': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+          ':foreground': '#8b008b',
+        }
+      ]
+    ],
+    'info-menu-5': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'info-menu-header': [
+      [ true , {
+          ':bold': true,
+          ':family': 'helv',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'info-node': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#a52a2a',
+          ':slant': 'italic',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'info-xref': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#8b008b',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'isearch': [
+      [ true , {
+          ':background': '#8b008b',
+          ':foreground': '#b0e2ff',
+        }
+      ]
+    ],
+    'isearch-lazy-highlight-face': [
+      [ true , {
+          ':background': '#afeeee',
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':italic': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'log-view-file-face': [
+      [ true , {
+          ':bold': true,
+          ':background': '#b3b3b3',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'log-view-message-face': [
+      [ true , {
+          ':background': '#d9d9d9',
+        }
+      ]
+    ],
+    'makefile-space-face': [
+      [ true , {
+          ':background': '#ff69b4',
+        }
+      ]
+    ],
+    'menu': [
+      [ true , {
+          ':background': '#7f7f7f',
+          ':foreground': '#ffffff',
+          ':box': '(:line-width -1 :style released-button)',
+        }
+      ]
+    ],
+    'message-cited-text-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'message-header-cc-face': [
+      [ true , {
+          ':foreground': '#191970',
+        }
+      ]
+    ],
+    'message-header-name-face': [
+      [ true , {
+          ':foreground': '#6495ed',
+        }
+      ]
+    ],
+    'message-header-newsgroups-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#00008b',
+          ':slant': 'italic',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'message-header-other-face': [
+      [ true , {
+          ':foreground': '#4682b4',
+        }
+      ]
+    ],
+    'message-header-subject-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#000080',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'message-header-to-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#191970',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'message-header-xheader-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'message-mml-face': [
+      [ true , {
+          ':foreground': '#228b22',
+        }
+      ]
+    ],
+    'message-separator-face': [
+      [ true , {
+          ':foreground': '#a52a2a',
+        }
+      ]
+    ],
+    'mode-line': [
+      [ true , {
+          ':background': '#7f7f7f',
+          ':foreground': '#ffffff',
+          ':box': '(:line-width -1 :style released-button)',
+        }
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':background': '#7f7f7f',
+          ':foreground': '#ffffff',
+          ':box': '(:line-width -1 :style released-button)',
+        }
+      ]
+    ],
+    'modeline-buffer-id': [
+      [ true , {
+          ':bold': true,
+          ':background': '#bfbfbf',
+          ':foreground': '#000000',
+          ':box': '(:line-width -1 :style released-button)',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'modeline-mousable': [
+      [ true , {
+          ':background': '#bfbfbf',
+          ':foreground': '#000000',
+          ':box': '(:line-width -1 :style released-button)',
+        }
+      ]
+    ],
+    'modeline-mousable-minor-mode': [
+      [ true , {
+          ':background': '#bfbfbf',
+          ':foreground': '#000000',
+          ':box': '(:line-width -1 :style released-button)',
+        }
+      ]
+    ],
+    'mouse': [
+      [ true , {
+          ':background': '#000000',
+        }
+      ]
+    ],
+    'primary-selection': [
+      [ true , {
+          ':background': '#eedc82',
+        }
+      ]
+    ],
+    'reb-match-0': [
+      [ true , {
+          ':background': '#add8e6',
+        }
+      ]
+    ],
+    'reb-match-1': [
+      [ true , {
+          ':background': '#7fffd4',
+        }
+      ]
+    ],
+    'reb-match-2': [
+      [ true , {
+          ':background': '#00ff7f',
+        }
+      ]
+    ],
+    'reb-match-3': [
+      [ true , {
+          ':background': '#ffff00',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#eedc82',
+        }
+      ]
+    ],
+    'scroll-bar': [
+      [ true , {
+          ':background': '#bfbfbf',
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#ffff00',
+        }
+      ]
+    ],
+    'sh-heredoc-face': [
+      [ true , {
+          ':foreground': '#d2b48c',
+        }
+      ]
+    ],
+    'show-paren-match-face': [
+      [ true , {
+          ':background': '#40e0d0',
+        }
+      ]
+    ],
+    'show-paren-mismatch-face': [
+      [ true , {
+          ':background': '#a020f0',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'show-tabs-space-face': [
+      [ true , {
+          ':foreground': '#ffff00',
+        }
+      ]
+    ],
+    'show-tabs-tab-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'smerge-base-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'smerge-markers-face': [
+      [ true , {
+          ':background': '#d9d9d9',
+        }
+      ]
+    ],
+    'smerge-mine-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'smerge-other-face': [
+      [ true , {
+          ':foreground': '#006400',
+        }
+      ]
+    ],
+    'speedbar-button-face': [
+      [ true , {
+          ':foreground': '#008b00',
+        }
+      ]
+    ],
+    'speedbar-directory-face': [
+      [ true , {
+          ':foreground': '#00008b',
+        }
+      ]
+    ],
+    'speedbar-file-face': [
+      [ true , {
+          ':foreground': '#008b8b',
+        }
+      ]
+    ],
+    'speedbar-highlight-face': [
+      [ true , {
+          ':background': '#00ff00',
+        }
+      ]
+    ],
+    'speedbar-selected-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+          ':underline': true,
+        }
+      ]
+    ],
+    'speedbar-tag-face': [
+      [ true , {
+          ':foreground': '#a52a2a',
+        }
+      ]
+    ],
+    'strokes-char-face': [
+      [ true , {
+          ':background': '#d3d3d3',
+        }
+      ]
+    ],
+    'term-black': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-blackbg': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#000000',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-blue': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#0000ff',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-bluebg': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#0000ff',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-bold': [
+      [ true , {
+          ':bold': true,
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'bold',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-cyan': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#00ffff',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-cyanbg': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#00ffff',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-default': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-default-bg': [
+      [ true , {
+          ':stipple': null,
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-default-bg-inv': [
+      [ true , {
+          ':stipple': null,
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-default-fg': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-default-fg-inv': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-green': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#00ff00',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-greenbg': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#00ff00',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-invisible': [
+      [ true , {
+          ':stipple': null,
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-invisible-inv': [
+      [ true , {
+          ':stipple': null,
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-magenta': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#ff00ff',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-magentabg': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ff00ff',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-red': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#ff0000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-redbg': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ff0000',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-underline': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': true,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-white': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#ffffff',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-whitebg': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-yellow': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffffff',
+          ':foreground': '#ffff00',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'term-yellowbg': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#ffff00',
+          ':foreground': '#000000',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':width': 'normal',
+          ':family': 'adobe-courier',
+        }
+      ]
+    ],
+    'tex-math-face': [
+      [ true , {
+          ':foreground': '#bc8f8f',
+        }
+      ]
+    ],
+    'texinfo-heading-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'tool-bar': [
+      [ true , {
+          ':background': '#bfbfbf',
+          ':foreground': '#000000',
+          ':box': '(:line-width 1 :style released-button)',
+        }
+      ]
+    ],
+    'tooltip': [
+      [ true , {
+          ':background': '#ffffe0',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'trailing-whitespace': [
+      [ true , {
+          ':background': '#ff0000',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'variable-pitch': [
+      [ true , {
+          ':family': 'helv',
+        }
+      ]
+    ],
+    'vcursor': [
+      [ true , {
+          ':background': '#00ffff',
+          ':foreground': '#0000ff',
+          ':underline': true,
+        }
+      ]
+    ],
+    'vhdl-font-lock-attribute-face': [
+      [ true , {
+          ':foreground': '#da70d6',
+        }
+      ]
+    ],
+    'vhdl-font-lock-directive-face': [
+      [ true , {
+          ':foreground': '#5f9ea0',
+        }
+      ]
+    ],
+    'vhdl-font-lock-enumvalue-face': [
+      [ true , {
+          ':foreground': '#8b7500',
+        }
+      ]
+    ],
+    'vhdl-font-lock-function-face': [
+      [ true , {
+          ':foreground': '#8b4789',
+        }
+      ]
+    ],
+    'vhdl-font-lock-prompt-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'vhdl-font-lock-reserved-words-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ffa500',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'vhdl-font-lock-translate-off-face': [
+      [ true , {
+          ':background': '#d3d3d3',
+        }
+      ]
+    ],
+    'vhdl-speedbar-architecture-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'vhdl-speedbar-architecture-selected-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+          ':underline': true,
+        }
+      ]
+    ],
+    'vhdl-speedbar-configuration-face': [
+      [ true , {
+          ':foreground': '#b8860b',
+        }
+      ]
+    ],
+    'vhdl-speedbar-configuration-selected-face': [
+      [ true , {
+          ':foreground': '#b8860b',
+          ':underline': true,
+        }
+      ]
+    ],
+    'vhdl-speedbar-entity-face': [
+      [ true , {
+          ':foreground': '#228b22',
+        }
+      ]
+    ],
+    'vhdl-speedbar-entity-selected-face': [
+      [ true , {
+          ':foreground': '#228b22',
+          ':underline': true,
+        }
+      ]
+    ],
+    'vhdl-speedbar-instantiation-face': [
+      [ true , {
+          ':foreground': '#a52a2a',
+        }
+      ]
+    ],
+    'vhdl-speedbar-instantiation-selected-face': [
+      [ true , {
+          ':foreground': '#a52a2a',
+          ':underline': true,
+        }
+      ]
+    ],
+    'vhdl-speedbar-package-face': [
+      [ true , {
+          ':foreground': '#7f7f7f',
+        }
+      ]
+    ],
+    'vhdl-speedbar-package-selected-face': [
+      [ true , {
+          ':foreground': '#7f7f7f',
+          ':underline': true,
+        }
+      ]
+    ],
+    'viper-minibuffer-emacs-face': [
+      [ true , {
+          ':background': '#b4eeb4',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'viper-minibuffer-insert-face': [
+      [ true , {
+          ':background': '#ffc0cb',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'viper-minibuffer-vi-face': [
+      [ true , {
+          ':background': '#bebebe',
+          ':foreground': '#006400',
+        }
+      ]
+    ],
+    'viper-replace-overlay-face': [
+      [ true , {
+          ':background': '#b4eeb4',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'viper-search-face': [
+      [ true , {
+          ':background': '#f0e68c',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'widget-button-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'widget-button-pressed-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'widget-documentation-face': [
+      [ true , {
+          ':foreground': '#006400',
+        }
+      ]
+    ],
+    'widget-field-face': [
+      [ true , {
+          ':background': '#d9d9d9',
+        }
+      ]
+    ],
+    'widget-inactive-face': [
+      [ true , {
+          ':foreground': '#696969',
+        }
+      ]
+    ],
+    'widget-single-line-field-face': [
+      [ true , {
+          ':background': '#d9d9d9',
+        }
+      ]
+    ],
+    'woman-addition-face': [
+      [ true , {
+          ':foreground': '#ffa500',
+        }
+      ]
+    ],
+    'woman-bold-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'woman-italic-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#ff0000',
+          ':underline': true,
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'woman-unknown-face': [
+      [ true , {
+          ':foreground': '#a52a2a',
+        }
+      ]
+    ],
+    'zmacs-region': [
+      [ true , {
+          ':background': '#eedc82',
+        }
+      ]
+    ]
+  }
+}

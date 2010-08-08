@@ -1,0 +1,60 @@
+{
+  'theme-url': 'URL FOR color-theme-simple-1',
+  'theme-name': 'color-theme-simple-1',
+  'theme-doc': 'JSON dump of color-theme-simple-1 by vic, created 2010-08-06.',
+  'params': {
+   'foreground-color': '#ffffff',
+   'background-color': '#000000',
+   'cursor-color': '#cd5c5c',
+   'background-mode': 'dark',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':foreground': '#000000',
+          ':background': '#ffffff',
+        }
+      ]
+    ],
+    'modeline-buffer-id': [
+      [ true , {
+          ':foreground': '#000000',
+          ':background': '#ffffff',
+        }
+      ]
+    ],
+    'modeline-mousable': [
+      [ true , {
+          ':foreground': '#000000',
+          ':background': '#ffffff',
+        }
+      ]
+    ],
+    'modeline-mousable-minor-mode': [
+      [ true , {
+          ':foreground': '#000000',
+          ':background': '#ffffff',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#bebebe',
+        }
+      ]
+    ]
+  }
+}

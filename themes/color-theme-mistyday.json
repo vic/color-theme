@@ -1,0 +1,340 @@
+{
+  'theme-url': 'URL FOR color-theme-mistyday',
+  'theme-name': 'color-theme-mistyday',
+  'theme-doc': 'JSON dump of color-theme-mistyday by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#ffe4e1',
+   'background-mode': 'light',
+   'border-color': '#000000',
+   'cursor-color': '#ff1493',
+   'foreground-color': '#000000',
+   'mouse-color': '#000000',
+  },
+  'vars': {
+    'goto-address-mail-face': 'italic',
+    'goto-address-mail-mouse-face': 'secondary-selection',
+    'goto-address-url-face': 'bold',
+    'goto-address-url-mouse-face': 'highlight',
+    'list-matching-lines-face': 'bold',
+    'paren-match-face': 'paren-face-match',
+    'paren-mismatch-face': 'paren-face-mismatch',
+    'paren-no-match-face': 'paren-face-no-match',
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'CUA-global-mark-face': [
+      [ true , {
+          ':background': '#00ffff',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'CUA-rectangle-face': [
+      [ true , {
+          ':background': '#b03060',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'CUA-rectangle-noselect-face': [
+      [ true , {
+          ':background': '#696969',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':italic': true,
+          ':weight': 'bold',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'calendar-today-face': [
+      [ true , {
+          ':underline': true,
+          ':background': '#00ff7f',
+          ':foreground': '#a52a2a',
+        }
+      ]
+    ],
+    'custom-button-face': [
+      [ true , {
+          ':background': '#2f4f4f',
+          ':foreground': '#f0ffff',
+        }
+      ]
+    ],
+    'custom-documentation-face': [
+      [ true , {
+          ':background': '#ffffff',
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'diary-face': [
+      [ true , {
+          ':background': '#000080',
+          ':foreground': '#ffff00',
+        }
+      ]
+    ],
+    'font-latex-bold-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#556b2f',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-latex-italic-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#556b2f',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-latex-math-face': [
+      [ true , {
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'font-latex-sedate-face': [
+      [ true , {
+          ':foreground': '#696969',
+        }
+      ]
+    ],
+    'font-latex-string-face': [
+      [ true 
+      ]
+    ],
+    'font-latex-warning-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':background': '#00ced1',
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#4169e1',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':background': '#98fb98',
+          ':foreground': '#483d8b',
+        }
+      ]
+    ],
+    'font-lock-doc-string-face': [
+      [ true , {
+          ':background': '#66cdaa',
+          ':foreground': '#ff1493',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':background': '#00ff7f',
+          ':foreground': '#191970',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#8b008b',
+        }
+      ]
+    ],
+    'font-lock-preprocessor-face': [
+      [ true , {
+          ':background': '#98fb98',
+          ':foreground': '#483d8b',
+        }
+      ]
+    ],
+    'font-lock-reference-face': [
+      [ true , {
+          ':background': '#00ced1',
+          ':foreground': '#000080',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':background': '#66cdaa',
+          ':foreground': '#ff1493',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':background': '#4682b4',
+          ':foreground': '#f0e68c',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':background': '#d8bfd8',
+          ':foreground': '#ff4500',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':background': '#fffacd',
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#2f4f4f',
+          ':foreground': '#e0ffff',
+        }
+      ]
+    ],
+    'holiday-face': [
+      [ true , {
+          ':background': '#ff4500',
+          ':foreground': '#ffffe0',
+        }
+      ]
+    ],
+    'ido-first-match-face': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'ido-only-match-face': [
+      [ true , {
+          ':foreground': '#228b22',
+        }
+      ]
+    ],
+    'ido-subdir-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':italic': true,
+        }
+      ]
+    ],
+    'isearch': [
+      [ true , {
+          ':background': '#a0522d',
+          ':foreground': '#e0ffff',
+        }
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':background': '#27408b',
+          ':foreground': '#7cfc00',
+        }
+      ]
+    ],
+    'modeline-buffer-id': [
+      [ true , {
+          ':background': '#27408b',
+          ':foreground': '#7cfc00',
+        }
+      ]
+    ],
+    'modeline-mousable': [
+      [ true , {
+          ':background': '#27408b',
+          ':foreground': '#7cfc00',
+        }
+      ]
+    ],
+    'modeline-mousable-minor-mode': [
+      [ true , {
+          ':background': '#27408b',
+          ':foreground': '#7cfc00',
+        }
+      ]
+    ],
+    'paren-face-match': [
+      [ true , {
+          ':background': '#40e0d0',
+        }
+      ]
+    ],
+    'paren-face-mismatch': [
+      [ true , {
+          ':background': '#a020f0',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'paren-face-no-match': [
+      [ true , {
+          ':background': '#ffff00',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'primary-selection': [
+      [ true , {
+          ':background': '#a0522d',
+          ':foreground': '#e0ffff',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#a0522d',
+          ':foreground': '#e0ffff',
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#228b22',
+          ':foreground': '#f5f5f5',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'zmacs-region': [
+      [ true , {
+          ':background': '#a0522d',
+          ':foreground': '#e0ffff',
+        }
+      ]
+    ]
+  }
+}

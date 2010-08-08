@@ -1,0 +1,2658 @@
+{
+  'theme-url': 'URL FOR color-theme-matrix',
+  'theme-name': 'color-theme-matrix',
+  'theme-doc': 'JSON dump of color-theme-matrix by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#000000',
+   'background-mode': 'dark',
+   'background-toolbar-color': '#ffe4c4',
+   'border-color': '#ffa500',
+   'bottom-toolbar-shadow-color': '#909999',
+   'cursor-color': '#7eff00',
+   'foreground-color': '#7eff00',
+   'mouse-color': '#7eff00',
+   'top-toolbar-shadow-color': '#ffffff',
+  },
+  'vars': {
+    'help-highlight-face': 'underline',
+    'list-matching-lines-face': 'bold',
+    'rmail-highlight-face': 'font-lock-function-name-face',
+    'view-highlight-face': 'highlight',
+    'widget-mouse-face': 'highlight',
+  },
+  'faces': {
+    'default': [
+      [ true , {
+          ':stipple': null,
+          ':background': '#000000',
+          ':foreground': '#7eff00',
+          ':inverse-video': null,
+          ':box': null,
+          ':strike-through': null,
+          ':overline': null,
+          ':underline': null,
+          ':slant': 'normal',
+          ':weight': 'normal',
+          ':height': '90',
+          ':width': 'normal',
+          ':family': 'outline-courier new',
+        }
+      ]
+    ],
+    'Buffer-menu-buffer-face': [
+      [ true 
+      ]
+    ],
+    'CUA-global-mark-face': [
+      [ true 
+      ]
+    ],
+    'CUA-rectangle-face': [
+      [ true 
+      ]
+    ],
+    'CUA-rectangle-noselect-face': [
+      [ true 
+      ]
+    ],
+    'Info-title-1-face': [
+      [ true 
+      ]
+    ],
+    'Info-title-2-face': [
+      [ true 
+      ]
+    ],
+    'Info-title-3-face': [
+      [ true 
+      ]
+    ],
+    'Info-title-4-face': [
+      [ true 
+      ]
+    ],
+    'antlr-font-lock-keyword-face': [
+      [ true 
+      ]
+    ],
+    'antlr-font-lock-literal-face': [
+      [ true 
+      ]
+    ],
+    'antlr-font-lock-ruledef-face': [
+      [ true 
+      ]
+    ],
+    'antlr-font-lock-ruleref-face': [
+      [ true 
+      ]
+    ],
+    'antlr-font-lock-tokendef-face': [
+      [ true 
+      ]
+    ],
+    'antlr-font-lock-tokenref-face': [
+      [ true 
+      ]
+    ],
+    'bbdb-company': [
+      [ true 
+      ]
+    ],
+    'bbdb-field-name': [
+      [ true 
+      ]
+    ],
+    'bbdb-field-value': [
+      [ true 
+      ]
+    ],
+    'bbdb-name': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face0': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face1': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face10': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face11': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face12': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face13': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face14': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face15': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face2': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face3': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face4': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face5': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face6': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face7': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face8': [
+      [ true 
+      ]
+    ],
+    'bg:erc-color-face9': [
+      [ true 
+      ]
+    ],
+    'blank-space-face': [
+      [ true 
+      ]
+    ],
+    'blank-tab-face': [
+      [ true 
+      ]
+    ],
+    'blue': [
+      [ true 
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'border': [
+      [ true , {
+          ':background': '#ffa500',
+        }
+      ]
+    ],
+    'border-glyph': [
+      [ true 
+      ]
+    ],
+    'buffers-tab': [
+      [ true 
+      ]
+    ],
+    'button': [
+      [ true 
+      ]
+    ],
+    'calendar-today-face': [
+      [ true 
+      ]
+    ],
+    'change-log-acknowledgement-face': [
+      [ true 
+      ]
+    ],
+    'change-log-conditionals-face': [
+      [ true 
+      ]
+    ],
+    'change-log-date-face': [
+      [ true 
+      ]
+    ],
+    'change-log-email-face': [
+      [ true 
+      ]
+    ],
+    'change-log-file-face': [
+      [ true 
+      ]
+    ],
+    'change-log-function-face': [
+      [ true 
+      ]
+    ],
+    'change-log-list-face': [
+      [ true 
+      ]
+    ],
+    'change-log-name-face': [
+      [ true 
+      ]
+    ],
+    'clearcase-dired-checkedout-face': [
+      [ true 
+      ]
+    ],
+    'comint-highlight-input': [
+      [ true 
+      ]
+    ],
+    'comint-highlight-prompt': [
+      [ true 
+      ]
+    ],
+    'cparen-around-andor-face': [
+      [ true 
+      ]
+    ],
+    'cparen-around-begin-face': [
+      [ true 
+      ]
+    ],
+    'cparen-around-conditional-face': [
+      [ true 
+      ]
+    ],
+    'cparen-around-define-face': [
+      [ true 
+      ]
+    ],
+    'cparen-around-lambda-face': [
+      [ true 
+      ]
+    ],
+    'cparen-around-letdo-face': [
+      [ true 
+      ]
+    ],
+    'cparen-around-quote-face': [
+      [ true 
+      ]
+    ],
+    'cparen-around-set!-face': [
+      [ true 
+      ]
+    ],
+    'cparen-around-syntax-rules-face': [
+      [ true 
+      ]
+    ],
+    'cparen-around-vector-face': [
+      [ true 
+      ]
+    ],
+    'cparen-binding-face': [
+      [ true 
+      ]
+    ],
+    'cparen-binding-list-face': [
+      [ true 
+      ]
+    ],
+    'cparen-conditional-clause-face': [
+      [ true 
+      ]
+    ],
+    'cparen-normal-paren-face': [
+      [ true 
+      ]
+    ],
+    'cperl-array-face': [
+      [ true 
+      ]
+    ],
+    'cperl-hash-face': [
+      [ true 
+      ]
+    ],
+    'cperl-invalid-face': [
+      [ true 
+      ]
+    ],
+    'cperl-nonoverridable-face': [
+      [ true 
+      ]
+    ],
+    'cursor': [
+      [ true , {
+          ':background': '#7eff00',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'custom-button-face': [
+      [ true 
+      ]
+    ],
+    'custom-button-pressed-face': [
+      [ true 
+      ]
+    ],
+    'custom-changed-face': [
+      [ true 
+      ]
+    ],
+    'custom-comment-face': [
+      [ true 
+      ]
+    ],
+    'custom-comment-tag-face': [
+      [ true 
+      ]
+    ],
+    'custom-documentation-face': [
+      [ true 
+      ]
+    ],
+    'custom-face-tag-face': [
+      [ true 
+      ]
+    ],
+    'custom-group-tag-face': [
+      [ true 
+      ]
+    ],
+    'custom-group-tag-face-1': [
+      [ true 
+      ]
+    ],
+    'custom-invalid-face': [
+      [ true 
+      ]
+    ],
+    'custom-modified-face': [
+      [ true 
+      ]
+    ],
+    'custom-rogue-face': [
+      [ true 
+      ]
+    ],
+    'custom-saved-face': [
+      [ true 
+      ]
+    ],
+    'custom-set-face': [
+      [ true 
+      ]
+    ],
+    'custom-state-face': [
+      [ true 
+      ]
+    ],
+    'custom-variable-button-face': [
+      [ true 
+      ]
+    ],
+    'custom-variable-tag-face': [
+      [ true 
+      ]
+    ],
+    'cvs-filename-face': [
+      [ true 
+      ]
+    ],
+    'cvs-handled-face': [
+      [ true 
+      ]
+    ],
+    'cvs-header-face': [
+      [ true 
+      ]
+    ],
+    'cvs-marked-face': [
+      [ true 
+      ]
+    ],
+    'cvs-msg-face': [
+      [ true 
+      ]
+    ],
+    'cvs-need-action-face': [
+      [ true 
+      ]
+    ],
+    'cvs-unknown-face': [
+      [ true 
+      ]
+    ],
+    'cyan': [
+      [ true 
+      ]
+    ],
+    'diary-face': [
+      [ true 
+      ]
+    ],
+    'diff-added-face': [
+      [ true 
+      ]
+    ],
+    'diff-changed-face': [
+      [ true 
+      ]
+    ],
+    'diff-context-face': [
+      [ true 
+      ]
+    ],
+    'diff-file-header-face': [
+      [ true 
+      ]
+    ],
+    'diff-function-face': [
+      [ true 
+      ]
+    ],
+    'diff-header-face': [
+      [ true 
+      ]
+    ],
+    'diff-hunk-header-face': [
+      [ true 
+      ]
+    ],
+    'diff-index-face': [
+      [ true 
+      ]
+    ],
+    'diff-nonexistent-face': [
+      [ true 
+      ]
+    ],
+    'diff-removed-face': [
+      [ true 
+      ]
+    ],
+    'dired-face-boring': [
+      [ true 
+      ]
+    ],
+    'dired-face-directory': [
+      [ true 
+      ]
+    ],
+    'dired-face-executable': [
+      [ true 
+      ]
+    ],
+    'dired-face-flagged': [
+      [ true 
+      ]
+    ],
+    'dired-face-header': [
+      [ true 
+      ]
+    ],
+    'dired-face-marked': [
+      [ true 
+      ]
+    ],
+    'dired-face-permissions': [
+      [ true 
+      ]
+    ],
+    'dired-face-setuid': [
+      [ true 
+      ]
+    ],
+    'dired-face-socket': [
+      [ true 
+      ]
+    ],
+    'dired-face-symlink': [
+      [ true 
+      ]
+    ],
+    'display-time-mail-balloon-enhance-face': [
+      [ true 
+      ]
+    ],
+    'display-time-mail-balloon-gnus-group-face': [
+      [ true 
+      ]
+    ],
+    'display-time-time-balloon-face': [
+      [ true 
+      ]
+    ],
+    'ebrowse-default-face': [
+      [ true 
+      ]
+    ],
+    'ebrowse-file-name-face': [
+      [ true 
+      ]
+    ],
+    'ebrowse-member-attribute-face': [
+      [ true 
+      ]
+    ],
+    'ebrowse-member-class-face': [
+      [ true 
+      ]
+    ],
+    'ebrowse-progress-face': [
+      [ true 
+      ]
+    ],
+    'ebrowse-root-class-face': [
+      [ true 
+      ]
+    ],
+    'ebrowse-tree-mark-face': [
+      [ true 
+      ]
+    ],
+    'ecb-sources-face': [
+      [ true 
+      ]
+    ],
+    'edb-inter-field-face': [
+      [ true 
+      ]
+    ],
+    'edb-normal-summary-face': [
+      [ true 
+      ]
+    ],
+    'ediff-current-diff-face-A': [
+      [ true 
+      ]
+    ],
+    'ediff-current-diff-face-Ancestor': [
+      [ true 
+      ]
+    ],
+    'ediff-current-diff-face-B': [
+      [ true 
+      ]
+    ],
+    'ediff-current-diff-face-C': [
+      [ true 
+      ]
+    ],
+    'ediff-even-diff-face-A': [
+      [ true 
+      ]
+    ],
+    'ediff-even-diff-face-Ancestor': [
+      [ true 
+      ]
+    ],
+    'ediff-even-diff-face-B': [
+      [ true 
+      ]
+    ],
+    'ediff-even-diff-face-C': [
+      [ true 
+      ]
+    ],
+    'ediff-fine-diff-face-A': [
+      [ true 
+      ]
+    ],
+    'ediff-fine-diff-face-Ancestor': [
+      [ true 
+      ]
+    ],
+    'ediff-fine-diff-face-B': [
+      [ true 
+      ]
+    ],
+    'ediff-fine-diff-face-C': [
+      [ true 
+      ]
+    ],
+    'ediff-odd-diff-face-A': [
+      [ true 
+      ]
+    ],
+    'ediff-odd-diff-face-Ancestor': [
+      [ true 
+      ]
+    ],
+    'ediff-odd-diff-face-B': [
+      [ true 
+      ]
+    ],
+    'ediff-odd-diff-face-C': [
+      [ true 
+      ]
+    ],
+    'eieio-custom-slot-tag-face': [
+      [ true 
+      ]
+    ],
+    'emacs-wiki-bad-link-face': [
+      [ true 
+      ]
+    ],
+    'emacs-wiki-link-face': [
+      [ true 
+      ]
+    ],
+    'erc-action-face': [
+      [ true 
+      ]
+    ],
+    'erc-bold-face': [
+      [ true 
+      ]
+    ],
+    'erc-current-nick-face': [
+      [ true 
+      ]
+    ],
+    'erc-dangerous-host-face': [
+      [ true 
+      ]
+    ],
+    'erc-default-face': [
+      [ true 
+      ]
+    ],
+    'erc-direct-msg-face': [
+      [ true 
+      ]
+    ],
+    'erc-error-face': [
+      [ true 
+      ]
+    ],
+    'erc-fool-face': [
+      [ true 
+      ]
+    ],
+    'erc-highlight-face': [
+      [ true 
+      ]
+    ],
+    'erc-input-face': [
+      [ true 
+      ]
+    ],
+    'erc-inverse-face': [
+      [ true 
+      ]
+    ],
+    'erc-keyword-face': [
+      [ true 
+      ]
+    ],
+    'erc-nick-default-face': [
+      [ true 
+      ]
+    ],
+    'erc-nick-msg-face': [
+      [ true 
+      ]
+    ],
+    'erc-notice-face': [
+      [ true 
+      ]
+    ],
+    'erc-pal-face': [
+      [ true 
+      ]
+    ],
+    'erc-prompt-face': [
+      [ true 
+      ]
+    ],
+    'erc-timestamp-face': [
+      [ true 
+      ]
+    ],
+    'erc-underline-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-archive-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-backup-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-clutter-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-directory-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-executable-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-missing-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-picture-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-product-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-readonly-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-special-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-symlink-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-text-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-todo-face': [
+      [ true 
+      ]
+    ],
+    'eshell-ls-unreadable-face': [
+      [ true 
+      ]
+    ],
+    'eshell-prompt-face': [
+      [ true 
+      ]
+    ],
+    'eshell-test-failed-face': [
+      [ true 
+      ]
+    ],
+    'eshell-test-ok-face': [
+      [ true 
+      ]
+    ],
+    'excerpt': [
+      [ true 
+      ]
+    ],
+    'extra-whitespace-face': [
+      [ true 
+      ]
+    ],
+    'ff-paths-non-existant-file-face': [
+      [ true 
+      ]
+    ],
+    'fg:black': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face0': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face1': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face10': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face11': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face12': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face13': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face14': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face15': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face2': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face3': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face4': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face5': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face6': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face7': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face8': [
+      [ true 
+      ]
+    ],
+    'fg:erc-color-face9': [
+      [ true 
+      ]
+    ],
+    'fixed': [
+      [ true 
+      ]
+    ],
+    'fixed-pitch': [
+      [ true 
+      ]
+    ],
+    'fl-comment-face': [
+      [ true 
+      ]
+    ],
+    'fl-function-name-face': [
+      [ true 
+      ]
+    ],
+    'fl-keyword-face': [
+      [ true 
+      ]
+    ],
+    'fl-string-face': [
+      [ true 
+      ]
+    ],
+    'fl-type-face': [
+      [ true 
+      ]
+    ],
+    'flash-paren-face-off': [
+      [ true 
+      ]
+    ],
+    'flash-paren-face-on': [
+      [ true 
+      ]
+    ],
+    'flash-paren-face-region': [
+      [ true 
+      ]
+    ],
+    'flyspell-duplicate-face': [
+      [ true 
+      ]
+    ],
+    'flyspell-incorrect-face': [
+      [ true 
+      ]
+    ],
+    'font-latex-bold-face': [
+      [ true 
+      ]
+    ],
+    'font-latex-italic-face': [
+      [ true 
+      ]
+    ],
+    'font-latex-math-face': [
+      [ true 
+      ]
+    ],
+    'font-latex-sedate-face': [
+      [ true 
+      ]
+    ],
+    'font-latex-string-face': [
+      [ true 
+      ]
+    ],
+    'font-latex-warning-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#eea9b8',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':italic': true,
+          ':background': '#000000',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#ff00ff',
+        }
+      ]
+    ],
+    'font-lock-doc-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-doc-string-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-exit-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':bold': true,
+          ':underline': true,
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#ffff00',
+        }
+      ]
+    ],
+    'font-lock-other-emphasized-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-other-type-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-preprocessor-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-reference-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-special-comment-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-special-keyword-face': [
+      [ true 
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#eeee00',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':foreground': '#ffffe0',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#90ee90',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true 
+      ]
+    ],
+    'fringe': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-attribution-face': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-face-1': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-face-10': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-face-11': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-face-2': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-face-3': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-face-4': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-face-5': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-face-6': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-face-7': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-face-8': [
+      [ true 
+      ]
+    ],
+    'gnus-cite-face-9': [
+      [ true 
+      ]
+    ],
+    'gnus-emphasis-bold': [
+      [ true 
+      ]
+    ],
+    'gnus-emphasis-bold-italic': [
+      [ true 
+      ]
+    ],
+    'gnus-emphasis-highlight-words': [
+      [ true 
+      ]
+    ],
+    'gnus-emphasis-italic': [
+      [ true 
+      ]
+    ],
+    'gnus-emphasis-strikethru': [
+      [ true 
+      ]
+    ],
+    'gnus-emphasis-underline': [
+      [ true 
+      ]
+    ],
+    'gnus-emphasis-underline-bold': [
+      [ true 
+      ]
+    ],
+    'gnus-emphasis-underline-bold-italic': [
+      [ true 
+      ]
+    ],
+    'gnus-emphasis-underline-italic': [
+      [ true 
+      ]
+    ],
+    'gnus-filterhist-face-1': [
+      [ true 
+      ]
+    ],
+    'gnus-group-mail-1-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-mail-1-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-mail-2-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-mail-2-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-mail-3-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-mail-3-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-mail-low-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-mail-low-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-1-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-1-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-2-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-2-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-3-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-3-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-4-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-4-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-5-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-5-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-6-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-6-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-low-empty-face': [
+      [ true 
+      ]
+    ],
+    'gnus-group-news-low-face': [
+      [ true 
+      ]
+    ],
+    'gnus-header-content-face': [
+      [ true 
+      ]
+    ],
+    'gnus-header-from-face': [
+      [ true 
+      ]
+    ],
+    'gnus-header-name-face': [
+      [ true 
+      ]
+    ],
+    'gnus-header-newsgroups-face': [
+      [ true 
+      ]
+    ],
+    'gnus-header-subject-face': [
+      [ true 
+      ]
+    ],
+    'gnus-picon-face': [
+      [ true 
+      ]
+    ],
+    'gnus-picon-xbm-face': [
+      [ true 
+      ]
+    ],
+    'gnus-picons-face': [
+      [ true 
+      ]
+    ],
+    'gnus-picons-xbm-face': [
+      [ true 
+      ]
+    ],
+    'gnus-server-agent-face': [
+      [ true 
+      ]
+    ],
+    'gnus-server-closed-face': [
+      [ true 
+      ]
+    ],
+    'gnus-server-denied-face': [
+      [ true 
+      ]
+    ],
+    'gnus-server-offline-face': [
+      [ true 
+      ]
+    ],
+    'gnus-server-opened-face': [
+      [ true 
+      ]
+    ],
+    'gnus-signature-face': [
+      [ true 
+      ]
+    ],
+    'gnus-splash': [
+      [ true 
+      ]
+    ],
+    'gnus-splash-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-cancelled-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-high-ancient-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-high-read-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-high-ticked-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-high-undownloaded-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-high-unread-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-low-ancient-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-low-read-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-low-ticked-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-low-undownloaded-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-low-unread-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-normal-ancient-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-normal-read-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-normal-ticked-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-normal-undownloaded-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-normal-unread-face': [
+      [ true 
+      ]
+    ],
+    'gnus-summary-selected-face': [
+      [ true 
+      ]
+    ],
+    'gnus-x-face': [
+      [ true 
+      ]
+    ],
+    'green': [
+      [ true 
+      ]
+    ],
+    'gui-button-face': [
+      [ true 
+      ]
+    ],
+    'gui-element': [
+      [ true 
+      ]
+    ],
+    'header-line': [
+      [ true 
+      ]
+    ],
+    'hi-black-b': [
+      [ true 
+      ]
+    ],
+    'hi-black-hb': [
+      [ true 
+      ]
+    ],
+    'hi-blue': [
+      [ true 
+      ]
+    ],
+    'hi-blue-b': [
+      [ true 
+      ]
+    ],
+    'hi-green': [
+      [ true 
+      ]
+    ],
+    'hi-green-b': [
+      [ true 
+      ]
+    ],
+    'hi-pink': [
+      [ true 
+      ]
+    ],
+    'hi-red-b': [
+      [ true 
+      ]
+    ],
+    'hi-yellow': [
+      [ true 
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#7eff00',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'highlight-changes-delete-face': [
+      [ true 
+      ]
+    ],
+    'highlight-changes-face': [
+      [ true 
+      ]
+    ],
+    'highline-face': [
+      [ true 
+      ]
+    ],
+    'holiday-face': [
+      [ true 
+      ]
+    ],
+    'html-helper-bold-face': [
+      [ true 
+      ]
+    ],
+    'html-helper-bold-italic-face': [
+      [ true 
+      ]
+    ],
+    'html-helper-builtin-face': [
+      [ true 
+      ]
+    ],
+    'html-helper-italic-face': [
+      [ true 
+      ]
+    ],
+    'html-helper-underline-face': [
+      [ true 
+      ]
+    ],
+    'html-tag-face': [
+      [ true 
+      ]
+    ],
+    'hyper-apropos-documentation': [
+      [ true 
+      ]
+    ],
+    'hyper-apropos-heading': [
+      [ true 
+      ]
+    ],
+    'hyper-apropos-hyperlink': [
+      [ true 
+      ]
+    ],
+    'hyper-apropos-major-heading': [
+      [ true 
+      ]
+    ],
+    'hyper-apropos-section-heading': [
+      [ true 
+      ]
+    ],
+    'hyper-apropos-warning': [
+      [ true 
+      ]
+    ],
+    'ibuffer-deletion-face': [
+      [ true 
+      ]
+    ],
+    'ibuffer-marked-face': [
+      [ true 
+      ]
+    ],
+    'idlwave-help-link-face': [
+      [ true 
+      ]
+    ],
+    'idlwave-shell-bp-face': [
+      [ true 
+      ]
+    ],
+    'ido-first-match-face': [
+      [ true 
+      ]
+    ],
+    'ido-indicator-face': [
+      [ true 
+      ]
+    ],
+    'ido-only-match-face': [
+      [ true 
+      ]
+    ],
+    'ido-subdir-face': [
+      [ true 
+      ]
+    ],
+    'info-header-node': [
+      [ true 
+      ]
+    ],
+    'info-header-xref': [
+      [ true 
+      ]
+    ],
+    'info-menu-5': [
+      [ true 
+      ]
+    ],
+    'info-menu-6': [
+      [ true 
+      ]
+    ],
+    'info-menu-header': [
+      [ true 
+      ]
+    ],
+    'info-node': [
+      [ true 
+      ]
+    ],
+    'info-xref': [
+      [ true 
+      ]
+    ],
+    'isearch': [
+      [ true 
+      ]
+    ],
+    'isearch-lazy-highlight-face': [
+      [ true 
+      ]
+    ],
+    'isearch-secondary': [
+      [ true 
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'jde-bug-breakpoint-cursor': [
+      [ true 
+      ]
+    ],
+    'jde-bug-breakpoint-marker': [
+      [ true 
+      ]
+    ],
+    'jde-db-active-breakpoint-face': [
+      [ true 
+      ]
+    ],
+    'jde-db-requested-breakpoint-face': [
+      [ true 
+      ]
+    ],
+    'jde-db-spec-breakpoint-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-api-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-bold-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-code-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-constant-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-doc-tag-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-italic-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-link-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-modifier-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-number-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-operator-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-package-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-pre-face': [
+      [ true 
+      ]
+    ],
+    'jde-java-font-lock-underline-face': [
+      [ true 
+      ]
+    ],
+    'lazy-highlight-face': [
+      [ true 
+      ]
+    ],
+    'left-margin': [
+      [ true 
+      ]
+    ],
+    'linemenu-face': [
+      [ true 
+      ]
+    ],
+    'list-mode-item-selected': [
+      [ true 
+      ]
+    ],
+    'log-view-file-face': [
+      [ true 
+      ]
+    ],
+    'log-view-message-face': [
+      [ true 
+      ]
+    ],
+    'magenta': [
+      [ true 
+      ]
+    ],
+    'makefile-space-face': [
+      [ true 
+      ]
+    ],
+    'man-bold': [
+      [ true 
+      ]
+    ],
+    'man-heading': [
+      [ true 
+      ]
+    ],
+    'man-italic': [
+      [ true 
+      ]
+    ],
+    'man-xref': [
+      [ true 
+      ]
+    ],
+    'menu': [
+      [ true 
+      ]
+    ],
+    'message-cited-text': [
+      [ true 
+      ]
+    ],
+    'message-cited-text-face': [
+      [ true 
+      ]
+    ],
+    'message-header-cc-face': [
+      [ true 
+      ]
+    ],
+    'message-header-contents': [
+      [ true 
+      ]
+    ],
+    'message-header-name-face': [
+      [ true 
+      ]
+    ],
+    'message-header-newsgroups-face': [
+      [ true 
+      ]
+    ],
+    'message-header-other-face': [
+      [ true 
+      ]
+    ],
+    'message-header-subject-face': [
+      [ true 
+      ]
+    ],
+    'message-header-to-face': [
+      [ true 
+      ]
+    ],
+    'message-header-xheader-face': [
+      [ true 
+      ]
+    ],
+    'message-headers': [
+      [ true 
+      ]
+    ],
+    'message-highlighted-header-contents': [
+      [ true 
+      ]
+    ],
+    'message-mml-face': [
+      [ true 
+      ]
+    ],
+    'message-separator-face': [
+      [ true 
+      ]
+    ],
+    'message-url': [
+      [ true 
+      ]
+    ],
+    'minibuffer-prompt': [
+      [ true 
+      ]
+    ],
+    'mmm-face': [
+      [ true 
+      ]
+    ],
+    'mode-line': [
+      [ true , {
+          ':bold': true,
+          ':background': '#bebebe',
+          ':foreground': '#000000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'mode-line-inactive': [
+      [ true 
+      ]
+    ],
+    'modeline-buffer-id': [
+      [ true , {
+          ':background': '#ffa500',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'modeline-mousable': [
+      [ true , {
+          ':background': '#ffa500',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'modeline-mousable-minor-mode': [
+      [ true , {
+          ':background': '#ffa500',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'mouse': [
+      [ true 
+      ]
+    ],
+    'mpg123-face-cur': [
+      [ true 
+      ]
+    ],
+    'mpg123-face-slider': [
+      [ true 
+      ]
+    ],
+    'my-tab-face': [
+      [ true 
+      ]
+    ],
+    'nil': [
+      [ true 
+      ]
+    ],
+    'overlay-empty-face': [
+      [ true 
+      ]
+    ],
+    'p4-diff-del-face': [
+      [ true 
+      ]
+    ],
+    'paren-blink-off': [
+      [ true 
+      ]
+    ],
+    'paren-face': [
+      [ true 
+      ]
+    ],
+    'paren-face-match': [
+      [ true 
+      ]
+    ],
+    'paren-face-mismatch': [
+      [ true 
+      ]
+    ],
+    'paren-face-no-match': [
+      [ true 
+      ]
+    ],
+    'paren-match': [
+      [ true 
+      ]
+    ],
+    'paren-mismatch': [
+      [ true 
+      ]
+    ],
+    'paren-mismatch-face': [
+      [ true 
+      ]
+    ],
+    'paren-no-match-face': [
+      [ true 
+      ]
+    ],
+    'pointer': [
+      [ true 
+      ]
+    ],
+    'primary-selection': [
+      [ true 
+      ]
+    ],
+    'reb-match-0': [
+      [ true 
+      ]
+    ],
+    'reb-match-1': [
+      [ true 
+      ]
+    ],
+    'reb-match-2': [
+      [ true 
+      ]
+    ],
+    'reb-match-3': [
+      [ true 
+      ]
+    ],
+    'red': [
+      [ true 
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#7eff00',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'right-margin': [
+      [ true 
+      ]
+    ],
+    'rpm-spec-dir-face': [
+      [ true 
+      ]
+    ],
+    'rpm-spec-doc-face': [
+      [ true 
+      ]
+    ],
+    'rpm-spec-ghost-face': [
+      [ true 
+      ]
+    ],
+    'rpm-spec-macro-face': [
+      [ true 
+      ]
+    ],
+    'rpm-spec-package-face': [
+      [ true 
+      ]
+    ],
+    'rpm-spec-tag-face': [
+      [ true 
+      ]
+    ],
+    'rpm-spec-var-face': [
+      [ true 
+      ]
+    ],
+    'scroll-bar': [
+      [ true 
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#ffa500',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'semantic-dirty-token-face': [
+      [ true 
+      ]
+    ],
+    'semantic-intangible-face': [
+      [ true 
+      ]
+    ],
+    'semantic-read-only-face': [
+      [ true 
+      ]
+    ],
+    'semantic-unmatched-syntax-face': [
+      [ true 
+      ]
+    ],
+    'senator-intangible-face': [
+      [ true 
+      ]
+    ],
+    'senator-momentary-highlight-face': [
+      [ true 
+      ]
+    ],
+    'senator-read-only-face': [
+      [ true 
+      ]
+    ],
+    'sgml-comment-face': [
+      [ true 
+      ]
+    ],
+    'sgml-doctype-face': [
+      [ true 
+      ]
+    ],
+    'sgml-end-tag-face': [
+      [ true 
+      ]
+    ],
+    'sgml-entity-face': [
+      [ true 
+      ]
+    ],
+    'sgml-ignored-face': [
+      [ true 
+      ]
+    ],
+    'sgml-ms-end-face': [
+      [ true 
+      ]
+    ],
+    'sgml-ms-start-face': [
+      [ true 
+      ]
+    ],
+    'sgml-pi-face': [
+      [ true 
+      ]
+    ],
+    'sgml-sgml-face': [
+      [ true 
+      ]
+    ],
+    'sgml-short-ref-face': [
+      [ true 
+      ]
+    ],
+    'sgml-shortref-face': [
+      [ true 
+      ]
+    ],
+    'sgml-start-tag-face': [
+      [ true 
+      ]
+    ],
+    'sh-heredoc-face': [
+      [ true 
+      ]
+    ],
+    'shell-option-face': [
+      [ true 
+      ]
+    ],
+    'shell-output-2-face': [
+      [ true 
+      ]
+    ],
+    'shell-output-3-face': [
+      [ true 
+      ]
+    ],
+    'shell-output-face': [
+      [ true 
+      ]
+    ],
+    'shell-prompt-face': [
+      [ true 
+      ]
+    ],
+    'show-block-face1': [
+      [ true 
+      ]
+    ],
+    'show-block-face2': [
+      [ true 
+      ]
+    ],
+    'show-block-face3': [
+      [ true 
+      ]
+    ],
+    'show-block-face4': [
+      [ true 
+      ]
+    ],
+    'show-block-face5': [
+      [ true 
+      ]
+    ],
+    'show-block-face6': [
+      [ true 
+      ]
+    ],
+    'show-block-face7': [
+      [ true 
+      ]
+    ],
+    'show-block-face8': [
+      [ true 
+      ]
+    ],
+    'show-block-face9': [
+      [ true 
+      ]
+    ],
+    'show-paren-match-face': [
+      [ true , {
+          ':background': '#ffa500',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'show-paren-mismatch-face': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'show-tabs-space-face': [
+      [ true 
+      ]
+    ],
+    'show-tabs-tab-face': [
+      [ true 
+      ]
+    ],
+    'smerge-base-face': [
+      [ true 
+      ]
+    ],
+    'smerge-markers-face': [
+      [ true 
+      ]
+    ],
+    'smerge-mine-face': [
+      [ true 
+      ]
+    ],
+    'smerge-other-face': [
+      [ true 
+      ]
+    ],
+    'speedbar-button-face': [
+      [ true 
+      ]
+    ],
+    'speedbar-directory-face': [
+      [ true 
+      ]
+    ],
+    'speedbar-file-face': [
+      [ true 
+      ]
+    ],
+    'speedbar-highlight-face': [
+      [ true 
+      ]
+    ],
+    'speedbar-selected-face': [
+      [ true 
+      ]
+    ],
+    'speedbar-separator-face': [
+      [ true 
+      ]
+    ],
+    'speedbar-tag-face': [
+      [ true 
+      ]
+    ],
+    'strokes-char-face': [
+      [ true 
+      ]
+    ],
+    'swbuff-current-buffer-face': [
+      [ true 
+      ]
+    ],
+    'tabbar-button-face': [
+      [ true 
+      ]
+    ],
+    'tabbar-default-face': [
+      [ true 
+      ]
+    ],
+    'tabbar-selected-face': [
+      [ true 
+      ]
+    ],
+    'tabbar-separator-face': [
+      [ true 
+      ]
+    ],
+    'tabbar-unselected-face': [
+      [ true 
+      ]
+    ],
+    'template-message-face': [
+      [ true 
+      ]
+    ],
+    'term-black': [
+      [ true 
+      ]
+    ],
+    'term-blackbg': [
+      [ true 
+      ]
+    ],
+    'term-blue': [
+      [ true 
+      ]
+    ],
+    'term-blue-bold-face': [
+      [ true 
+      ]
+    ],
+    'term-blue-face': [
+      [ true 
+      ]
+    ],
+    'term-blue-inv-face': [
+      [ true 
+      ]
+    ],
+    'term-blue-ul-face': [
+      [ true 
+      ]
+    ],
+    'term-bluebg': [
+      [ true 
+      ]
+    ],
+    'term-bold': [
+      [ true 
+      ]
+    ],
+    'term-cyan': [
+      [ true 
+      ]
+    ],
+    'term-cyan-bold-face': [
+      [ true 
+      ]
+    ],
+    'term-cyan-face': [
+      [ true 
+      ]
+    ],
+    'term-cyan-inv-face': [
+      [ true 
+      ]
+    ],
+    'term-cyan-ul-face': [
+      [ true 
+      ]
+    ],
+    'term-cyanbg': [
+      [ true 
+      ]
+    ],
+    'term-default': [
+      [ true 
+      ]
+    ],
+    'term-default-bg': [
+      [ true 
+      ]
+    ],
+    'term-default-bg-inv': [
+      [ true 
+      ]
+    ],
+    'term-default-bold-face': [
+      [ true 
+      ]
+    ],
+    'term-default-face': [
+      [ true 
+      ]
+    ],
+    'term-default-fg': [
+      [ true 
+      ]
+    ],
+    'term-default-fg-inv': [
+      [ true 
+      ]
+    ],
+    'term-default-inv-face': [
+      [ true 
+      ]
+    ],
+    'term-default-ul-face': [
+      [ true 
+      ]
+    ],
+    'term-green': [
+      [ true 
+      ]
+    ],
+    'term-green-bold-face': [
+      [ true 
+      ]
+    ],
+    'term-green-face': [
+      [ true 
+      ]
+    ],
+    'term-green-inv-face': [
+      [ true 
+      ]
+    ],
+    'term-green-ul-face': [
+      [ true 
+      ]
+    ],
+    'term-greenbg': [
+      [ true 
+      ]
+    ],
+    'term-invisible': [
+      [ true 
+      ]
+    ],
+    'term-invisible-inv': [
+      [ true 
+      ]
+    ],
+    'term-magenta': [
+      [ true 
+      ]
+    ],
+    'term-magenta-bold-face': [
+      [ true 
+      ]
+    ],
+    'term-magenta-face': [
+      [ true 
+      ]
+    ],
+    'term-magenta-inv-face': [
+      [ true 
+      ]
+    ],
+    'term-magenta-ul-face': [
+      [ true 
+      ]
+    ],
+    'term-magentabg': [
+      [ true 
+      ]
+    ],
+    'term-red': [
+      [ true 
+      ]
+    ],
+    'term-red-bold-face': [
+      [ true 
+      ]
+    ],
+    'term-red-face': [
+      [ true 
+      ]
+    ],
+    'term-red-inv-face': [
+      [ true 
+      ]
+    ],
+    'term-red-ul-face': [
+      [ true 
+      ]
+    ],
+    'term-redbg': [
+      [ true 
+      ]
+    ],
+    'term-underline': [
+      [ true 
+      ]
+    ],
+    'term-white': [
+      [ true 
+      ]
+    ],
+    'term-white-bold-face': [
+      [ true 
+      ]
+    ],
+    'term-white-face': [
+      [ true 
+      ]
+    ],
+    'term-white-inv-face': [
+      [ true 
+      ]
+    ],
+    'term-white-ul-face': [
+      [ true 
+      ]
+    ],
+    'term-whitebg': [
+      [ true 
+      ]
+    ],
+    'term-yellow': [
+      [ true 
+      ]
+    ],
+    'term-yellow-bold-face': [
+      [ true 
+      ]
+    ],
+    'term-yellow-face': [
+      [ true 
+      ]
+    ],
+    'term-yellow-inv-face': [
+      [ true 
+      ]
+    ],
+    'term-yellow-ul-face': [
+      [ true 
+      ]
+    ],
+    'term-yellowbg': [
+      [ true 
+      ]
+    ],
+    'tex-math-face': [
+      [ true 
+      ]
+    ],
+    'texinfo-heading-face': [
+      [ true 
+      ]
+    ],
+    'text-cursor': [
+      [ true 
+      ]
+    ],
+    'tool-bar': [
+      [ true 
+      ]
+    ],
+    'tooltip': [
+      [ true 
+      ]
+    ],
+    'trailing-whitespace': [
+      [ true 
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'variable-pitch': [
+      [ true 
+      ]
+    ],
+    'vc-annotate-face-0046FF': [
+      [ true 
+      ]
+    ],
+    'vcursor': [
+      [ true 
+      ]
+    ],
+    'vertical-divider': [
+      [ true 
+      ]
+    ],
+    'vhdl-font-lock-attribute-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-font-lock-directive-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-font-lock-enumvalue-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-font-lock-function-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-font-lock-generic-/constant-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-font-lock-prompt-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-font-lock-reserved-words-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-font-lock-translate-off-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-font-lock-type-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-font-lock-variable-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-speedbar-architecture-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-speedbar-architecture-selected-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-speedbar-configuration-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-speedbar-configuration-selected-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-speedbar-entity-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-speedbar-entity-selected-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-speedbar-instantiation-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-speedbar-instantiation-selected-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-speedbar-package-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-speedbar-package-selected-face': [
+      [ true 
+      ]
+    ],
+    'vhdl-speedbar-subprogram-face': [
+      [ true 
+      ]
+    ],
+    'viper-minibuffer-emacs-face': [
+      [ true 
+      ]
+    ],
+    'viper-minibuffer-insert-face': [
+      [ true 
+      ]
+    ],
+    'viper-minibuffer-vi-face': [
+      [ true 
+      ]
+    ],
+    'viper-replace-overlay-face': [
+      [ true 
+      ]
+    ],
+    'viper-search-face': [
+      [ true 
+      ]
+    ],
+    'vm-xface': [
+      [ true 
+      ]
+    ],
+    'vmpc-pre-sig-face': [
+      [ true 
+      ]
+    ],
+    'vmpc-sig-face': [
+      [ true 
+      ]
+    ],
+    'w3m-anchor-face': [
+      [ true 
+      ]
+    ],
+    'w3m-arrived-anchor-face': [
+      [ true 
+      ]
+    ],
+    'w3m-header-line-location-content-face': [
+      [ true 
+      ]
+    ],
+    'w3m-header-line-location-title-face': [
+      [ true 
+      ]
+    ],
+    'white': [
+      [ true 
+      ]
+    ],
+    'widget': [
+      [ true 
+      ]
+    ],
+    'widget-button-face': [
+      [ true 
+      ]
+    ],
+    'widget-button-pressed-face': [
+      [ true 
+      ]
+    ],
+    'widget-documentation-face': [
+      [ true 
+      ]
+    ],
+    'widget-field-face': [
+      [ true 
+      ]
+    ],
+    'widget-inactive-face': [
+      [ true 
+      ]
+    ],
+    'widget-single-line-field-face': [
+      [ true 
+      ]
+    ],
+    'woman-addition-face': [
+      [ true 
+      ]
+    ],
+    'woman-bold-face': [
+      [ true 
+      ]
+    ],
+    'woman-italic-face': [
+      [ true 
+      ]
+    ],
+    'woman-unknown-face': [
+      [ true 
+      ]
+    ],
+    'x-face': [
+      [ true 
+      ]
+    ],
+    'xrdb-option-name-face': [
+      [ true 
+      ]
+    ],
+    'xref-keyword-face': [
+      [ true 
+      ]
+    ],
+    'xref-list-default-face': [
+      [ true 
+      ]
+    ],
+    'xref-list-pilot-face': [
+      [ true 
+      ]
+    ],
+    'xref-list-symbol-face': [
+      [ true 
+      ]
+    ],
+    'yellow': [
+      [ true 
+      ]
+    ],
+    'zmacs-region': [
+      [ true 
+      ]
+    ]
+  }
+}

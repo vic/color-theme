@@ -1,0 +1,196 @@
+{
+  'theme-url': 'URL FOR color-theme-renegade',
+  'theme-name': 'color-theme-renegade',
+  'theme-doc': 'JSON dump of color-theme-renegade by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#000000',
+   'background-mode': 'dark',
+   'border-color': '#000000',
+   'cursor-color': '#000000',
+   'foreground-color': '#00cdcd',
+   'mouse-color': '#ffffff',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#00ffff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#00ffff',
+          ':slant': 'italic',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'fixed-pitch': [
+      [ true , {
+          ':family': 'courier',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#6495ed',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ffff00',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#cd00cd',
+        }
+      ]
+    ],
+    'font-lock-doc-face': [
+      [ true , {
+          ':bold': true,
+          ':weight': 'bold',
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#bebebe',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#00ffff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#00ffff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#00cdcd',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'fringe': [
+      [ true , {
+          ':background': '#525252',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#0000ff',
+        }
+      ]
+    ],
+    'isearch': [
+      [ true , {
+          ':background': '#0000ff',
+          ':foreground': '#00cdcd',
+        }
+      ]
+    ],
+    'isearch-lazy-highlight-face': [
+      [ true , {
+          ':background': '#00c5cd',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'menu': [
+      [ true 
+      ]
+    ],
+    'mode-line': [
+      [ true , {
+          ':bold': true,
+          ':background': '#0000cd',
+          ':foreground': '#ffffff',
+          ':box': '(:line-width -1 :style released-button)',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'mouse': [
+      [ true , {
+          ':background': '#ffffff',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':bold': true,
+          ':background': '#ffffff',
+          ':foreground': '#0000ff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'scroll-bar': [
+      [ true 
+      ]
+    ],
+    'trailing-whitespace': [
+      [ true , {
+          ':background': '#ff0000',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'variable-pitch': [
+      [ true , {
+          ':family': 'helv',
+        }
+      ]
+    ]
+  }
+}

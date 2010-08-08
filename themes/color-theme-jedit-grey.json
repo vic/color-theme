@@ -1,0 +1,130 @@
+{
+  'theme-url': 'URL FOR color-theme-jedit-grey',
+  'theme-name': 'color-theme-jedit-grey',
+  'theme-doc': 'JSON dump of color-theme-jedit-grey by vic, created 2010-08-06.',
+  'params': {
+   'font': 'fixed',
+   'width': '130',
+   'height': '50',
+   'background-color': '#c4c4c4',
+   'foreground-color': '#000000',
+   'background-mode': 'light',
+   'mouse-color': '#000000',
+   'cursor-color': '#000000',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#27408b',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#8b7500',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#8b0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ffc0cb',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#008b8b',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':foreground': '#8b0000',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#008b00',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#8b0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'highline-face': [
+      [ true , {
+          ':background': '#d6d6d6',
+        }
+      ]
+    ],
+    'setnu-line-number-face': [
+      [ true , {
+          ':background': '#ffffff',
+          ':foreground': '#8968cd',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'show-paren-match-face': [
+      [ true , {
+          ':background': '#999999',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#b3b3b3',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#e5e5e5',
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#ffffff',
+        }
+      ]
+    ],
+    'widget-field-face': [
+      [ true , {
+          ':background': '#4169e1',
+        }
+      ]
+    ],
+    'widget-single-line-field-face': [
+      [ true , {
+          ':background': '#4169e1',
+        }
+      ]
+    ]
+  }
+}

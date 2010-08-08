@@ -1,0 +1,88 @@
+{
+  'theme-url': 'URL FOR color-theme-gnome',
+  'theme-name': 'color-theme-gnome',
+  'theme-doc': 'JSON dump of color-theme-gnome by vic, created 2010-08-06.',
+  'params': {
+   'foreground-color': '#f5deb3',
+   'background-color': '#2f4f4f',
+   'background-mode': 'dark',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':foreground': '#00ffff',
+          ':background': '#008b8b',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':foreground': '#ffff00',
+          ':underline': true,
+        }
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':foreground': '#008b8b',
+          ':background': '#f5deb3',
+        }
+      ]
+    ],
+    'modeline-buffer-id': [
+      [ true , {
+          ':foreground': '#008b8b',
+          ':background': '#f5deb3',
+        }
+      ]
+    ],
+    'modeline-mousable': [
+      [ true , {
+          ':foreground': '#008b8b',
+          ':background': '#f5deb3',
+        }
+      ]
+    ],
+    'modeline-mousable-minor-mode': [
+      [ true , {
+          ':foreground': '#008b8b',
+          ':background': '#f5deb3',
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':foreground': '#8b0000',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':foreground': '#8b0000',
+          ':weight': 'bold',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':foreground': '#b22222',
+        }
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': null,
+        }
+      ]
+    ]
+  }
+}

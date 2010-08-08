@@ -1,0 +1,138 @@
+{
+  'theme-url': 'URL FOR color-theme-robin-hood',
+  'theme-name': 'color-theme-robin-hood',
+  'theme-doc': 'JSON dump of color-theme-robin-hood by vic, created 2010-08-06.',
+  'params': {
+   'foreground-color': '#ffdead',
+   'background-color': '#304020',
+  },
+  'vars': {
+    'CUA-mode-read-only-cursor-color': '#ffffff',
+    'help-highlight-face': 'info-xref',
+    'list-matching-lines-buffer-name-face': 'bold',
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'button': [
+      [ true , {
+          ':bold': true,
+        }
+      ]
+    ],
+    'calendar-today-face': [
+      [ true , {
+          ':foreground': '#fffacd',
+        }
+      ]
+    ],
+    'custom-button-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#1e90ff',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'diary-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#ffff00',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'fringe': [
+      [ true , {
+          ':background': '#003700',
+        }
+      ]
+    ],
+    'header-line': [
+      [ true , {
+          ':background': '#003000',
+          ':foreground': '#a0a070',
+        }
+      ]
+    ],
+    'holiday-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#cd853f',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'ido-subdir-face': [
+      [ true , {
+          ':foreground': '#7b68ee',
+        }
+      ]
+    ],
+    'isearch': [
+      [ true , {
+          ':foreground': '#ffc0cb',
+          ':background': '#ff0000',
+        }
+      ]
+    ],
+    'isearch-lazy-highlight-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'menu': [
+      [ true , {
+          ':background': '#304020',
+          ':foreground': '#ffdead',
+        }
+      ]
+    ],
+    'minibuffer-prompt': [
+      [ true , {
+          ':foreground': '#98fb98',
+        }
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':background': '#556b2f',
+          ':foreground': '#f5deb3',
+          ':box': '(:line-width 1 :style released-button)',
+        }
+      ]
+    ],
+    'mode-line-inactive': [
+      [ true , {
+          ':background': '#556b2f',
+          ':foreground': '#f0e68c',
+          ':box': '(:line-width 1 :style released-button)',
+        }
+      ]
+    ],
+    'semantic-dirty-token-face': [
+      [ true , {
+          ':background': '#383838',
+        }
+      ]
+    ],
+    'tool-bar': [
+      [ true , {
+          ':background': '#304020',
+          ':foreground': '#f5deb3',
+          ':box': '(:line-width 1 :style released-button)',
+        }
+      ]
+    ],
+    'tooltip': [
+      [ true , {
+          ':background': '#fffacd',
+          ':foreground': '#000000',
+        }
+      ]
+    ]
+  }
+}

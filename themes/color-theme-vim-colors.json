@@ -1,0 +1,422 @@
+{
+  'theme-url': 'URL FOR color-theme-vim-colors',
+  'theme-name': 'color-theme-vim-colors',
+  'theme-doc': 'JSON dump of color-theme-vim-colors by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#ffffff',
+   'background-mode': 'light',
+   'border-color': '#000000',
+   'cursor-color': '#000000',
+   'foreground-color': '#000000',
+   'mouse-color': '#000000',
+  },
+  'vars': {
+    'Man-overstrike-face': 'bold',
+    'Man-underline-face': 'underline',
+    'apropos-keybinding-face': 'underline',
+    'apropos-label-face': 'italic',
+    'apropos-match-face': 'secondary-selection',
+    'apropos-property-face': 'bold-italic',
+    'apropos-symbol-face': 'bold',
+    'cperl-here-face': 'font-lock-string-face',
+    'cperl-invalid-face': '(quote underline)',
+    'cperl-pod-face': 'font-lock-comment-face',
+    'cperl-pod-head-face': 'font-lock-variable-name-face',
+    'help-highlight-face': 'underline',
+    'ispell-highlight-face': 'highlight',
+    'list-matching-lines-face': 'bold',
+    'rpm-spec-dir-face': 'rpm-spec-dir-face',
+    'rpm-spec-doc-face': 'rpm-spec-doc-face',
+    'rpm-spec-ghost-face': 'rpm-spec-ghost-face',
+    'rpm-spec-macro-face': 'rpm-spec-macro-face',
+    'rpm-spec-package-face': 'rpm-spec-package-face',
+    'rpm-spec-tag-face': 'rpm-spec-tag-face',
+    'tags-tag-face': 'default',
+    'view-highlight-face': 'highlight',
+    'widget-mouse-face': 'highlight',
+  },
+  'faces': {
+    'default': [
+      [ true , {
+          ':background': '#ffffff',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'Info-title-1-face': [
+      [ true 
+      ]
+    ],
+    'Info-title-2-face': [
+      [ true 
+      ]
+    ],
+    'Info-title-3-face': [
+      [ true 
+      ]
+    ],
+    'Info-title-4-face': [
+      [ true , {
+          ':bold': '(bold extra-bold ultra-bold)',
+        }
+      ]
+    ],
+    'bold': [
+      [ true , {
+          ':bold': '(bold extra-bold ultra-bold)',
+        }
+      ]
+    ],
+    'bold-italic': [
+      [ true , {
+          ':italic': '(italic oblique)',
+          ':weight': 'bold',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'border': [
+      [ true , {
+          ':background': '#000000',
+        }
+      ]
+    ],
+    'comint-highlight-input': [
+      [ true , {
+          ':bold': '(bold extra-bold ultra-bold)',
+        }
+      ]
+    ],
+    'comint-highlight-prompt': [
+      [ true , {
+          ':foreground': '#00008b',
+        }
+      ]
+    ],
+    'cperl-array-face': [
+      [ true , {
+          ':foreground': '#a52a2a',
+        }
+      ]
+    ],
+    'cperl-hash-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'cperl-nonoverridable-face': [
+      [ true , {
+          ':foreground': '#008b8b',
+        }
+      ]
+    ],
+    'cursor': [
+      [ true , {
+          ':background': '#000000',
+        }
+      ]
+    ],
+    'fixed-pitch': [
+      [ true 
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#a020f0',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#008b00',
+        }
+      ]
+    ],
+    'font-lock-doc-face': [
+      [ true , {
+          ':background': '#f2f2f2',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#008b8b',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':bold': '(bold extra-bold ultra-bold)',
+          ':foreground': '#a52a2a',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':background': '#f2f2f2',
+          ':foreground': '#ff00ff',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':foreground': '#228b22',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#008b8b',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':bold': '(bold extra-bold ultra-bold)',
+          ':foreground': '#ff0000',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'fringe': [
+      [ true , {
+          ':background': '#e5e5e5',
+        }
+      ]
+    ],
+    'header-line': [
+      [ true , {
+          ':background': '#e5e5e5',
+          ':foreground': '#333333',
+        }
+      ]
+    ],
+    'highlight': [
+      [ true , {
+          ':background': '#b4eeb4',
+        }
+      ]
+    ],
+    'info-header-node': [
+      [ true 
+      ]
+    ],
+    'info-header-xref': [
+      [ true 
+      ]
+    ],
+    'info-menu-5': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'info-menu-header': [
+      [ true , {
+          ':bold': '(bold extra-bold ultra-bold)',
+        }
+      ]
+    ],
+    'info-node': [
+      [ true , {
+          ':italic': '(italic oblique)',
+          ':foreground': '#a52a2a',
+          ':weight': 'bold',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'info-xref': [
+      [ true , {
+          ':bold': '(bold extra-bold ultra-bold)',
+          ':foreground': '#8b008b',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'isearch': [
+      [ true , {
+          ':background': '#8b008b',
+          ':foreground': '#b0e2ff',
+        }
+      ]
+    ],
+    'isearch-lazy-highlight-face': [
+      [ true , {
+          ':background': '#afeeee',
+        }
+      ]
+    ],
+    'italic': [
+      [ true , {
+          ':italic': '(italic oblique)',
+        }
+      ]
+    ],
+    'menu': [
+      [ true 
+      ]
+    ],
+    'mode-line': [
+      [ true , {
+          ':background': '#bfbfbf',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'mouse': [
+      [ true , {
+          ':background': '#000000',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#eedc82',
+        }
+      ]
+    ],
+    'rpm-spec-dir-face': [
+      [ true , {
+          ':foreground': '#00ff00',
+        }
+      ]
+    ],
+    'rpm-spec-doc-face': [
+      [ true , {
+          ':foreground': '#ff00ff',
+        }
+      ]
+    ],
+    'rpm-spec-ghost-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'rpm-spec-macro-face': [
+      [ true , {
+          ':foreground': '#a020f0',
+        }
+      ]
+    ],
+    'rpm-spec-package-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'rpm-spec-tag-face': [
+      [ true , {
+          ':foreground': '#0000ff',
+        }
+      ]
+    ],
+    'scroll-bar': [
+      [ true , {
+          ':background': '#bfbfbf',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'secondary-selection': [
+      [ true , {
+          ':background': '#ffff00',
+        }
+      ]
+    ],
+    'sh-heredoc-face': [
+      [ true , {
+          ':foreground': '#d2b48c',
+        }
+      ]
+    ],
+    'show-paren-match-face': [
+      [ true , {
+          ':background': '#40e0d0',
+        }
+      ]
+    ],
+    'show-paren-mismatch-face': [
+      [ true , {
+          ':background': '#a020f0',
+          ':foreground': '#ffffff',
+        }
+      ]
+    ],
+    'tool-bar': [
+      [ true , {
+          ':background': '#bfbfbf',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'tooltip': [
+      [ true , {
+          ':background': '#ffffe0',
+          ':foreground': '#000000',
+        }
+      ]
+    ],
+    'trailing-whitespace': [
+      [ true , {
+          ':background': '#ff0000',
+        }
+      ]
+    ],
+    'underline': [
+      [ true , {
+          ':underline': true,
+        }
+      ]
+    ],
+    'variable-pitch': [
+      [ true 
+      ]
+    ],
+    'widget-button-face': [
+      [ true , {
+          ':bold': '(bold extra-bold ultra-bold)',
+        }
+      ]
+    ],
+    'widget-button-pressed-face': [
+      [ true , {
+          ':foreground': '#ff0000',
+        }
+      ]
+    ],
+    'widget-documentation-face': [
+      [ true , {
+          ':foreground': '#006400',
+        }
+      ]
+    ],
+    'widget-field-face': [
+      [ true , {
+          ':background': '#d9d9d9',
+        }
+      ]
+    ],
+    'widget-inactive-face': [
+      [ true , {
+          ':foreground': '#696969',
+        }
+      ]
+    ],
+    'widget-single-line-field-face': [
+      [ true , {
+          ':background': '#d9d9d9',
+        }
+      ]
+    ]
+  }
+}

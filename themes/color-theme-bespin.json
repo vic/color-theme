@@ -1,0 +1,118 @@
+{
+  'theme-url': 'URL FOR color-theme-bespin',
+  'theme-name': 'color-theme-bespin',
+  'theme-doc': 'JSON dump of color-theme-bespin by vic, created 2010-08-06.',
+  'params': {
+   'background-color': '#28211c',
+   'foreground-color': '#baae9e',
+   'cursor-color': '#a7a7a7',
+  },
+  'vars': {
+
+  },
+  'faces': {
+    'default': [
+      [ true 
+      ]
+    ],
+    'modeline': [
+      [ true , {
+          ':background': '#ffffff',
+          ':foreground': '#000000',
+          ':box': '(:line-width 1 :style released-button)',
+        }
+      ]
+    ],
+    'font-lock-builtin-face': [
+      [ true , {
+          ':foreground': '#a6e22a',
+        }
+      ]
+    ],
+    'font-lock-comment-face': [
+      [ true , {
+          ':italic': true,
+          ':foreground': '#666666',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-constant-face': [
+      [ true , {
+          ':foreground': '#ddf2a4',
+        }
+      ]
+    ],
+    'font-lock-doc-string-face': [
+      [ true , {
+          ':foreground': '#5ea6ea',
+        }
+      ]
+    ],
+    'font-lock-string-face': [
+      [ true , {
+          ':foreground': '#54be0d',
+        }
+      ]
+    ],
+    'font-lock-function-name-face': [
+      [ true , {
+          ':foreground': '#937121',
+          ':slant': 'italic',
+        }
+      ]
+    ],
+    'font-lock-keyword-face': [
+      [ true , {
+          ':foreground': '#5ea6ea',
+        }
+      ]
+    ],
+    'font-lock-type-face': [
+      [ true , {
+          ':underline': true,
+          ':foreground': '#89bdff',
+        }
+      ]
+    ],
+    'font-lock-variable-name-face': [
+      [ true , {
+          ':foreground': '#7587a6',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'font-lock-warning-face': [
+      [ true , {
+          ':bold': true,
+          ':foreground': '#f9ee98',
+          ':weight': 'bold',
+        }
+      ]
+    ],
+    'highlight-80+': [
+      [ true , {
+          ':background': '#f9ee98',
+        }
+      ]
+    ],
+    'hl-line': [
+      [ true , {
+          ':background': '#1a1a1a',
+        }
+      ]
+    ],
+    'region': [
+      [ true , {
+          ':background': '#1a1a1a',
+        }
+      ]
+    ],
+    'ido-subdir': [
+      [ true , {
+          ':foreground': '#f1266f',
+        }
+      ]
+    ]
+  }
+}
